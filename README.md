@@ -4,6 +4,8 @@ Final Project - Spring 2024
 Michelle, Deva, Amelia, Jennifer
 
 ### Musculoskeletal Abnormality Detection  
+The purpose of this project is to use machine learning (deep learning) to develop an automated system to detect musculoskeletal abnormalities from radiographic X-Ray images.
+
 Dataset: https://stanfordmlgroup.github.io/competitions/mura/
 
 #### How to run code:
