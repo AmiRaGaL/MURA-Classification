@@ -37,12 +37,12 @@
 35,XR_FOREARM,patient11248,MURA-v1.1/valid/XR_FOREARM/patient11248/study1_positive/image1.png,1,0
 36,XR_FOREARM,patient11483,MURA-v1.1/valid/XR_FOREARM/patient11483/study1_negative/image2.png,0,0
 37,XR_FOREARM,patient11483,MURA-v1.1/valid/XR_FOREARM/patient11483/study1_negative/image1.png,0,0
-38,XR_FOREARM,patient11324,MURA-v1.1/valid/XR_FOREARM/patient11324/study1_negative/image2.png,0,0
+38,XR_FOREARM,patient11324,MURA-v1.1/valid/XR_FOREARM/patient11324/study1_negative/image2.png,0,1
 39,XR_FOREARM,patient11324,MURA-v1.1/valid/XR_FOREARM/patient11324/study1_negative/image1.png,0,0
 40,XR_FOREARM,patient11495,MURA-v1.1/valid/XR_FOREARM/patient11495/study1_negative/image2.png,0,0
 41,XR_FOREARM,patient11495,MURA-v1.1/valid/XR_FOREARM/patient11495/study1_negative/image1.png,0,0
 42,XR_FOREARM,patient11424,MURA-v1.1/valid/XR_FOREARM/patient11424/study1_positive/image2.png,1,1
-43,XR_FOREARM,patient11424,MURA-v1.1/valid/XR_FOREARM/patient11424/study1_positive/image1.png,1,1
+43,XR_FOREARM,patient11424,MURA-v1.1/valid/XR_FOREARM/patient11424/study1_positive/image1.png,1,0
 44,XR_FOREARM,patient11438,MURA-v1.1/valid/XR_FOREARM/patient11438/study1_positive/image10.png,1,1
 45,XR_FOREARM,patient11438,MURA-v1.1/valid/XR_FOREARM/patient11438/study1_positive/image5.png,1,0
 46,XR_FOREARM,patient11438,MURA-v1.1/valid/XR_FOREARM/patient11438/study1_positive/image2.png,1,1
@@ -51,7 +51,7 @@
 49,XR_FOREARM,patient11438,MURA-v1.1/valid/XR_FOREARM/patient11438/study1_positive/image7.png,1,1
 50,XR_FOREARM,patient11438,MURA-v1.1/valid/XR_FOREARM/patient11438/study1_positive/image3.png,1,0
 51,XR_FOREARM,patient11438,MURA-v1.1/valid/XR_FOREARM/patient11438/study1_positive/image1.png,1,0
-52,XR_FOREARM,patient11438,MURA-v1.1/valid/XR_FOREARM/patient11438/study1_positive/image6.png,1,1
+52,XR_FOREARM,patient11438,MURA-v1.1/valid/XR_FOREARM/patient11438/study1_positive/image6.png,1,0
 53,XR_FOREARM,patient11438,MURA-v1.1/valid/XR_FOREARM/patient11438/study1_positive/image4.png,1,1
 54,XR_FOREARM,patient11470,MURA-v1.1/valid/XR_FOREARM/patient11470/study1_negative/image1.png,0,0
 55,XR_FOREARM,patient11469,MURA-v1.1/valid/XR_FOREARM/patient11469/study1_negative/image2.png,0,0
@@ -72,7 +72,7 @@
 70,XR_FOREARM,patient11316,MURA-v1.1/valid/XR_FOREARM/patient11316/study1_negative/image2.png,0,0
 71,XR_FOREARM,patient11316,MURA-v1.1/valid/XR_FOREARM/patient11316/study1_negative/image1.png,0,0
 72,XR_FOREARM,patient11437,MURA-v1.1/valid/XR_FOREARM/patient11437/study1_positive/image2.png,1,1
-73,XR_FOREARM,patient11437,MURA-v1.1/valid/XR_FOREARM/patient11437/study1_positive/image1.png,1,0
+73,XR_FOREARM,patient11437,MURA-v1.1/valid/XR_FOREARM/patient11437/study1_positive/image1.png,1,1
 74,XR_FOREARM,patient11220,MURA-v1.1/valid/XR_FOREARM/patient11220/study1_positive/image2.png,1,1
 75,XR_FOREARM,patient11220,MURA-v1.1/valid/XR_FOREARM/patient11220/study1_positive/image1.png,1,1
 76,XR_FOREARM,patient11478,MURA-v1.1/valid/XR_FOREARM/patient11478/study1_negative/image1.png,0,0
@@ -114,7 +114,7 @@
 112,XR_FOREARM,patient11476,MURA-v1.1/valid/XR_FOREARM/patient11476/study1_negative/image1.png,0,0
 113,XR_FOREARM,patient11433,MURA-v1.1/valid/XR_FOREARM/patient11433/study1_positive/image2.png,1,1
 114,XR_FOREARM,patient11433,MURA-v1.1/valid/XR_FOREARM/patient11433/study1_positive/image3.png,1,1
-115,XR_FOREARM,patient11433,MURA-v1.1/valid/XR_FOREARM/patient11433/study1_positive/image1.png,1,0
+115,XR_FOREARM,patient11433,MURA-v1.1/valid/XR_FOREARM/patient11433/study1_positive/image1.png,1,1
 116,XR_FOREARM,patient11365,MURA-v1.1/valid/XR_FOREARM/patient11365/study1_positive/image2.png,1,1
 117,XR_FOREARM,patient11365,MURA-v1.1/valid/XR_FOREARM/patient11365/study1_positive/image1.png,1,1
 118,XR_FOREARM,patient11416,MURA-v1.1/valid/XR_FOREARM/patient11416/study1_positive/image2.png,1,0
@@ -159,7 +159,7 @@
 157,XR_FOREARM,patient11403,MURA-v1.1/valid/XR_FOREARM/patient11403/study1_positive/image2.png,1,0
 158,XR_FOREARM,patient11403,MURA-v1.1/valid/XR_FOREARM/patient11403/study1_positive/image1.png,1,0
 159,XR_FOREARM,patient11440,MURA-v1.1/valid/XR_FOREARM/patient11440/study1_positive/image2.png,1,0
-160,XR_FOREARM,patient11440,MURA-v1.1/valid/XR_FOREARM/patient11440/study1_positive/image3.png,1,0
+160,XR_FOREARM,patient11440,MURA-v1.1/valid/XR_FOREARM/patient11440/study1_positive/image3.png,1,1
 161,XR_FOREARM,patient11440,MURA-v1.1/valid/XR_FOREARM/patient11440/study1_positive/image1.png,1,0
 162,XR_FOREARM,patient11492,MURA-v1.1/valid/XR_FOREARM/patient11492/study1_negative/image2.png,0,0
 163,XR_FOREARM,patient11492,MURA-v1.1/valid/XR_FOREARM/patient11492/study1_negative/image1.png,0,0
@@ -181,7 +181,7 @@
 179,XR_FOREARM,patient11414,MURA-v1.1/valid/XR_FOREARM/patient11414/study1_positive/image2.png,1,1
 180,XR_FOREARM,patient11414,MURA-v1.1/valid/XR_FOREARM/patient11414/study1_positive/image1.png,1,0
 181,XR_FOREARM,patient11401,MURA-v1.1/valid/XR_FOREARM/patient11401/study1_positive/image2.png,1,0
-182,XR_FOREARM,patient11401,MURA-v1.1/valid/XR_FOREARM/patient11401/study1_positive/image1.png,1,1
+182,XR_FOREARM,patient11401,MURA-v1.1/valid/XR_FOREARM/patient11401/study1_positive/image1.png,1,0
 183,XR_FOREARM,patient11434,MURA-v1.1/valid/XR_FOREARM/patient11434/study1_positive/image2.png,1,1
 184,XR_FOREARM,patient11434,MURA-v1.1/valid/XR_FOREARM/patient11434/study1_positive/image1.png,1,1
 185,XR_FOREARM,patient11459,MURA-v1.1/valid/XR_FOREARM/patient11459/study1_negative/image2.png,0,0
@@ -197,7 +197,7 @@
 195,XR_FOREARM,patient11481,MURA-v1.1/valid/XR_FOREARM/patient11481/study1_negative/image3.png,0,0
 196,XR_FOREARM,patient11481,MURA-v1.1/valid/XR_FOREARM/patient11481/study1_negative/image1.png,0,0
 197,XR_FOREARM,patient11481,MURA-v1.1/valid/XR_FOREARM/patient11481/study1_negative/image4.png,0,0
-198,XR_FOREARM,patient11472,MURA-v1.1/valid/XR_FOREARM/patient11472/study1_negative/image2.png,0,1
+198,XR_FOREARM,patient11472,MURA-v1.1/valid/XR_FOREARM/patient11472/study1_negative/image2.png,0,0
 199,XR_FOREARM,patient11472,MURA-v1.1/valid/XR_FOREARM/patient11472/study1_negative/image1.png,0,0
 200,XR_FOREARM,patient11409,MURA-v1.1/valid/XR_FOREARM/patient11409/study1_positive/image2.png,1,1
 201,XR_FOREARM,patient11409,MURA-v1.1/valid/XR_FOREARM/patient11409/study1_positive/image1.png,1,1
@@ -212,7 +212,7 @@
 210,XR_FOREARM,patient11482,MURA-v1.1/valid/XR_FOREARM/patient11482/study1_negative/image2.png,0,0
 211,XR_FOREARM,patient11482,MURA-v1.1/valid/XR_FOREARM/patient11482/study1_negative/image1.png,0,0
 212,XR_FOREARM,patient11494,MURA-v1.1/valid/XR_FOREARM/patient11494/study1_negative/image2.png,0,1
-213,XR_FOREARM,patient11494,MURA-v1.1/valid/XR_FOREARM/patient11494/study1_negative/image1.png,0,1
+213,XR_FOREARM,patient11494,MURA-v1.1/valid/XR_FOREARM/patient11494/study1_negative/image1.png,0,0
 214,XR_FOREARM,patient11283,MURA-v1.1/valid/XR_FOREARM/patient11283/study1_negative/image2.png,0,0
 215,XR_FOREARM,patient11283,MURA-v1.1/valid/XR_FOREARM/patient11283/study1_negative/image1.png,0,0
 216,XR_FOREARM,patient11328,MURA-v1.1/valid/XR_FOREARM/patient11328/study1_positive/image2.png,1,0
@@ -262,10 +262,10 @@
 260,XR_FOREARM,patient11413,MURA-v1.1/valid/XR_FOREARM/patient11413/study1_positive/image1.png,1,0
 261,XR_FOREARM,patient11397,MURA-v1.1/valid/XR_FOREARM/patient11397/study1_positive/image2.png,1,1
 262,XR_FOREARM,patient11397,MURA-v1.1/valid/XR_FOREARM/patient11397/study1_positive/image1.png,1,1
-263,XR_FOREARM,patient11420,MURA-v1.1/valid/XR_FOREARM/patient11420/study1_positive/image2.png,1,1
+263,XR_FOREARM,patient11420,MURA-v1.1/valid/XR_FOREARM/patient11420/study1_positive/image2.png,1,0
 264,XR_FOREARM,patient11420,MURA-v1.1/valid/XR_FOREARM/patient11420/study1_positive/image3.png,1,0
 265,XR_FOREARM,patient11420,MURA-v1.1/valid/XR_FOREARM/patient11420/study1_positive/image1.png,1,0
-266,XR_FOREARM,patient11420,MURA-v1.1/valid/XR_FOREARM/patient11420/study1_positive/image4.png,1,1
+266,XR_FOREARM,patient11420,MURA-v1.1/valid/XR_FOREARM/patient11420/study1_positive/image4.png,1,0
 267,XR_FOREARM,patient11462,MURA-v1.1/valid/XR_FOREARM/patient11462/study1_negative/image2.png,0,0
 268,XR_FOREARM,patient11462,MURA-v1.1/valid/XR_FOREARM/patient11462/study1_negative/image3.png,0,0
 269,XR_FOREARM,patient11462,MURA-v1.1/valid/XR_FOREARM/patient11462/study1_negative/image1.png,0,0
@@ -290,9 +290,9 @@
 288,XR_FOREARM,patient11396,MURA-v1.1/valid/XR_FOREARM/patient11396/study1_positive/image2.png,1,0
 289,XR_FOREARM,patient11396,MURA-v1.1/valid/XR_FOREARM/patient11396/study1_positive/image1.png,1,0
 290,XR_FOREARM,patient11393,MURA-v1.1/valid/XR_FOREARM/patient11393/study1_positive/image2.png,1,0
-291,XR_FOREARM,patient11393,MURA-v1.1/valid/XR_FOREARM/patient11393/study1_positive/image1.png,1,1
+291,XR_FOREARM,patient11393,MURA-v1.1/valid/XR_FOREARM/patient11393/study1_positive/image1.png,1,0
 292,XR_FOREARM,patient11398,MURA-v1.1/valid/XR_FOREARM/patient11398/study1_positive/image2.png,1,1
-293,XR_FOREARM,patient11398,MURA-v1.1/valid/XR_FOREARM/patient11398/study1_positive/image3.png,1,1
+293,XR_FOREARM,patient11398,MURA-v1.1/valid/XR_FOREARM/patient11398/study1_positive/image3.png,1,0
 294,XR_FOREARM,patient11398,MURA-v1.1/valid/XR_FOREARM/patient11398/study1_positive/image1.png,1,1
 295,XR_FOREARM,patient11489,MURA-v1.1/valid/XR_FOREARM/patient11489/study1_negative/image2.png,0,0
 296,XR_FOREARM,patient11489,MURA-v1.1/valid/XR_FOREARM/patient11489/study1_negative/image1.png,0,0
@@ -368,7 +368,7 @@
 366,XR_HAND,patient11523,MURA-v1.1/valid/XR_HAND/patient11523/study2_negative/image3.png,0,0
 367,XR_HAND,patient11523,MURA-v1.1/valid/XR_HAND/patient11523/study2_negative/image1.png,0,0
 368,XR_HAND,patient11382,MURA-v1.1/valid/XR_HAND/patient11382/study1_positive/image2.png,1,0
-369,XR_HAND,patient11382,MURA-v1.1/valid/XR_HAND/patient11382/study1_positive/image3.png,1,0
+369,XR_HAND,patient11382,MURA-v1.1/valid/XR_HAND/patient11382/study1_positive/image3.png,1,1
 370,XR_HAND,patient11382,MURA-v1.1/valid/XR_HAND/patient11382/study1_positive/image1.png,1,0
 371,XR_HAND,patient11382,MURA-v1.1/valid/XR_HAND/patient11382/study2_negative/image2.png,0,0
 372,XR_HAND,patient11382,MURA-v1.1/valid/XR_HAND/patient11382/study2_negative/image3.png,0,0
@@ -417,7 +417,7 @@
 415,XR_HAND,patient11336,MURA-v1.1/valid/XR_HAND/patient11336/study1_positive/image3.png,1,0
 416,XR_HAND,patient11336,MURA-v1.1/valid/XR_HAND/patient11336/study1_positive/image1.png,1,0
 417,XR_HAND,patient11534,MURA-v1.1/valid/XR_HAND/patient11534/study1_positive/image2.png,1,0
-418,XR_HAND,patient11534,MURA-v1.1/valid/XR_HAND/patient11534/study1_positive/image3.png,1,1
+418,XR_HAND,patient11534,MURA-v1.1/valid/XR_HAND/patient11534/study1_positive/image3.png,1,0
 419,XR_HAND,patient11534,MURA-v1.1/valid/XR_HAND/patient11534/study1_positive/image1.png,1,1
 420,XR_HAND,patient11218,MURA-v1.1/valid/XR_HAND/patient11218/study1_negative/image2.png,0,0
 421,XR_HAND,patient11218,MURA-v1.1/valid/XR_HAND/patient11218/study1_negative/image3.png,0,0
@@ -461,7 +461,7 @@
 459,XR_HAND,patient11563,MURA-v1.1/valid/XR_HAND/patient11563/study1_negative/image2.png,0,0
 460,XR_HAND,patient11563,MURA-v1.1/valid/XR_HAND/patient11563/study1_negative/image3.png,0,0
 461,XR_HAND,patient11563,MURA-v1.1/valid/XR_HAND/patient11563/study1_negative/image1.png,0,0
-462,XR_HAND,patient11319,MURA-v1.1/valid/XR_HAND/patient11319/study1_positive/image2.png,1,1
+462,XR_HAND,patient11319,MURA-v1.1/valid/XR_HAND/patient11319/study1_positive/image2.png,1,0
 463,XR_HAND,patient11319,MURA-v1.1/valid/XR_HAND/patient11319/study1_positive/image3.png,1,1
 464,XR_HAND,patient11319,MURA-v1.1/valid/XR_HAND/patient11319/study1_positive/image1.png,1,0
 465,XR_HAND,patient11601,MURA-v1.1/valid/XR_HAND/patient11601/study1_negative/image2.png,0,0
@@ -543,7 +543,7 @@
 541,XR_HAND,patient11497,MURA-v1.1/valid/XR_HAND/patient11497/study1_positive/image3.png,1,0
 542,XR_HAND,patient11497,MURA-v1.1/valid/XR_HAND/patient11497/study1_positive/image1.png,1,0
 543,XR_HAND,patient11235,MURA-v1.1/valid/XR_HAND/patient11235/study1_negative/image2.png,0,0
-544,XR_HAND,patient11235,MURA-v1.1/valid/XR_HAND/patient11235/study1_negative/image3.png,0,1
+544,XR_HAND,patient11235,MURA-v1.1/valid/XR_HAND/patient11235/study1_negative/image3.png,0,0
 545,XR_HAND,patient11235,MURA-v1.1/valid/XR_HAND/patient11235/study1_negative/image1.png,0,0
 546,XR_HAND,patient11592,MURA-v1.1/valid/XR_HAND/patient11592/study1_negative/image2.png,0,0
 547,XR_HAND,patient11592,MURA-v1.1/valid/XR_HAND/patient11592/study1_negative/image3.png,0,0
@@ -566,7 +566,7 @@
 564,XR_HAND,patient11506,MURA-v1.1/valid/XR_HAND/patient11506/study1_positive/image1.png,1,1
 565,XR_HAND,patient11512,MURA-v1.1/valid/XR_HAND/patient11512/study1_positive/image2.png,1,1
 566,XR_HAND,patient11512,MURA-v1.1/valid/XR_HAND/patient11512/study1_positive/image3.png,1,0
-567,XR_HAND,patient11512,MURA-v1.1/valid/XR_HAND/patient11512/study1_positive/image1.png,1,0
+567,XR_HAND,patient11512,MURA-v1.1/valid/XR_HAND/patient11512/study1_positive/image1.png,1,1
 568,XR_HAND,patient11212,MURA-v1.1/valid/XR_HAND/patient11212/study1_negative/image2.png,0,0
 569,XR_HAND,patient11212,MURA-v1.1/valid/XR_HAND/patient11212/study1_negative/image3.png,0,0
 570,XR_HAND,patient11212,MURA-v1.1/valid/XR_HAND/patient11212/study1_negative/image1.png,0,0
@@ -674,7 +674,7 @@
 672,XR_HAND,patient11522,MURA-v1.1/valid/XR_HAND/patient11522/study1_positive/image1.png,1,0
 673,XR_HAND,patient11499,MURA-v1.1/valid/XR_HAND/patient11499/study1_positive/image2.png,1,0
 674,XR_HAND,patient11499,MURA-v1.1/valid/XR_HAND/patient11499/study1_positive/image3.png,1,1
-675,XR_HAND,patient11499,MURA-v1.1/valid/XR_HAND/patient11499/study1_positive/image1.png,1,1
+675,XR_HAND,patient11499,MURA-v1.1/valid/XR_HAND/patient11499/study1_positive/image1.png,1,0
 676,XR_HAND,patient11413,MURA-v1.1/valid/XR_HAND/patient11413/study1_negative/image2.png,0,0
 677,XR_HAND,patient11413,MURA-v1.1/valid/XR_HAND/patient11413/study1_negative/image3.png,0,0
 678,XR_HAND,patient11413,MURA-v1.1/valid/XR_HAND/patient11413/study1_negative/image1.png,0,0
@@ -739,12 +739,12 @@
 737,XR_HAND,patient11517,MURA-v1.1/valid/XR_HAND/patient11517/study1_positive/image1.png,1,0
 738,XR_HAND,patient11581,MURA-v1.1/valid/XR_HAND/patient11581/study1_negative/image2.png,0,0
 739,XR_HAND,patient11581,MURA-v1.1/valid/XR_HAND/patient11581/study1_negative/image1.png,0,0
-740,XR_HAND,patient11556,MURA-v1.1/valid/XR_HAND/patient11556/study1_negative/image2.png,0,1
+740,XR_HAND,patient11556,MURA-v1.1/valid/XR_HAND/patient11556/study1_negative/image2.png,0,0
 741,XR_HAND,patient11556,MURA-v1.1/valid/XR_HAND/patient11556/study1_negative/image3.png,0,1
 742,XR_HAND,patient11556,MURA-v1.1/valid/XR_HAND/patient11556/study1_negative/image1.png,0,0
 743,XR_HAND,patient11559,MURA-v1.1/valid/XR_HAND/patient11559/study1_negative/image2.png,0,0
 744,XR_HAND,patient11559,MURA-v1.1/valid/XR_HAND/patient11559/study1_negative/image1.png,0,0
-745,XR_HAND,patient11588,MURA-v1.1/valid/XR_HAND/patient11588/study1_negative/image2.png,0,1
+745,XR_HAND,patient11588,MURA-v1.1/valid/XR_HAND/patient11588/study1_negative/image2.png,0,0
 746,XR_HAND,patient11588,MURA-v1.1/valid/XR_HAND/patient11588/study1_negative/image3.png,0,0
 747,XR_HAND,patient11588,MURA-v1.1/valid/XR_HAND/patient11588/study1_negative/image1.png,0,0
 748,XR_HAND,patient11267,MURA-v1.1/valid/XR_HAND/patient11267/study1_negative/image2.png,0,0
@@ -762,15 +762,15 @@
 760,XR_HAND,patient11540,MURA-v1.1/valid/XR_HAND/patient11540/study1_positive/image4.png,1,1
 761,XR_FINGER,patient11261,MURA-v1.1/valid/XR_FINGER/patient11261/study1_positive/image2.png,1,1
 762,XR_FINGER,patient11261,MURA-v1.1/valid/XR_FINGER/patient11261/study1_positive/image3.png,1,1
-763,XR_FINGER,patient11261,MURA-v1.1/valid/XR_FINGER/patient11261/study1_positive/image1.png,1,0
+763,XR_FINGER,patient11261,MURA-v1.1/valid/XR_FINGER/patient11261/study1_positive/image1.png,1,1
 764,XR_FINGER,patient11937,MURA-v1.1/valid/XR_FINGER/patient11937/study1_negative/image2.png,0,0
-765,XR_FINGER,patient11937,MURA-v1.1/valid/XR_FINGER/patient11937/study1_negative/image3.png,0,0
+765,XR_FINGER,patient11937,MURA-v1.1/valid/XR_FINGER/patient11937/study1_negative/image3.png,0,1
 766,XR_FINGER,patient11937,MURA-v1.1/valid/XR_FINGER/patient11937/study1_negative/image1.png,0,0
 767,XR_FINGER,patient11431,MURA-v1.1/valid/XR_FINGER/patient11431/study1_negative/image2.png,0,0
 768,XR_FINGER,patient11431,MURA-v1.1/valid/XR_FINGER/patient11431/study1_negative/image3.png,0,0
 769,XR_FINGER,patient11431,MURA-v1.1/valid/XR_FINGER/patient11431/study1_negative/image1.png,0,0
-770,XR_FINGER,patient11905,MURA-v1.1/valid/XR_FINGER/patient11905/study1_positive/image2.png,1,0
-771,XR_FINGER,patient11905,MURA-v1.1/valid/XR_FINGER/patient11905/study1_positive/image3.png,1,0
+770,XR_FINGER,patient11905,MURA-v1.1/valid/XR_FINGER/patient11905/study1_positive/image2.png,1,1
+771,XR_FINGER,patient11905,MURA-v1.1/valid/XR_FINGER/patient11905/study1_positive/image3.png,1,1
 772,XR_FINGER,patient11905,MURA-v1.1/valid/XR_FINGER/patient11905/study1_positive/image1.png,1,0
 773,XR_FINGER,patient11329,MURA-v1.1/valid/XR_FINGER/patient11329/study1_negative/image2.png,0,0
 774,XR_FINGER,patient11329,MURA-v1.1/valid/XR_FINGER/patient11329/study1_negative/image3.png,0,0
@@ -821,7 +821,7 @@
 819,XR_FINGER,patient11921,MURA-v1.1/valid/XR_FINGER/patient11921/study1_positive/image2.png,1,1
 820,XR_FINGER,patient11921,MURA-v1.1/valid/XR_FINGER/patient11921/study1_positive/image3.png,1,0
 821,XR_FINGER,patient11921,MURA-v1.1/valid/XR_FINGER/patient11921/study1_positive/image1.png,1,0
-822,XR_FINGER,patient11921,MURA-v1.1/valid/XR_FINGER/patient11921/study1_positive/image4.png,1,0
+822,XR_FINGER,patient11921,MURA-v1.1/valid/XR_FINGER/patient11921/study1_positive/image4.png,1,1
 823,XR_FINGER,patient11891,MURA-v1.1/valid/XR_FINGER/patient11891/study1_positive/image2.png,1,0
 824,XR_FINGER,patient11891,MURA-v1.1/valid/XR_FINGER/patient11891/study1_positive/image3.png,1,0
 825,XR_FINGER,patient11891,MURA-v1.1/valid/XR_FINGER/patient11891/study1_positive/image1.png,1,0
@@ -858,7 +858,7 @@
 856,XR_FINGER,patient11895,MURA-v1.1/valid/XR_FINGER/patient11895/study1_positive/image2.png,1,1
 857,XR_FINGER,patient11895,MURA-v1.1/valid/XR_FINGER/patient11895/study1_positive/image3.png,1,1
 858,XR_FINGER,patient11895,MURA-v1.1/valid/XR_FINGER/patient11895/study1_positive/image1.png,1,1
-859,XR_FINGER,patient11906,MURA-v1.1/valid/XR_FINGER/patient11906/study1_positive/image2.png,1,0
+859,XR_FINGER,patient11906,MURA-v1.1/valid/XR_FINGER/patient11906/study1_positive/image2.png,1,1
 860,XR_FINGER,patient11906,MURA-v1.1/valid/XR_FINGER/patient11906/study1_positive/image3.png,1,0
 861,XR_FINGER,patient11906,MURA-v1.1/valid/XR_FINGER/patient11906/study1_positive/image1.png,1,0
 862,XR_FINGER,patient11906,MURA-v1.1/valid/XR_FINGER/patient11906/study1_positive/image4.png,1,0
@@ -932,7 +932,7 @@
 930,XR_FINGER,patient11416,MURA-v1.1/valid/XR_FINGER/patient11416/study1_negative/image1.png,0,0
 931,XR_FINGER,patient11959,MURA-v1.1/valid/XR_FINGER/patient11959/study1_negative/image2.png,0,0
 932,XR_FINGER,patient11959,MURA-v1.1/valid/XR_FINGER/patient11959/study1_negative/image3.png,0,0
-933,XR_FINGER,patient11959,MURA-v1.1/valid/XR_FINGER/patient11959/study1_negative/image1.png,0,1
+933,XR_FINGER,patient11959,MURA-v1.1/valid/XR_FINGER/patient11959/study1_negative/image1.png,0,0
 934,XR_FINGER,patient11940,MURA-v1.1/valid/XR_FINGER/patient11940/study1_negative/image2.png,0,0
 935,XR_FINGER,patient11940,MURA-v1.1/valid/XR_FINGER/patient11940/study1_negative/image3.png,0,1
 936,XR_FINGER,patient11940,MURA-v1.1/valid/XR_FINGER/patient11940/study1_negative/image1.png,0,0
@@ -943,7 +943,7 @@
 941,XR_FINGER,patient11943,MURA-v1.1/valid/XR_FINGER/patient11943/study1_negative/image1.png,0,0
 942,XR_FINGER,patient11931,MURA-v1.1/valid/XR_FINGER/patient11931/study1_negative/image2.png,0,0
 943,XR_FINGER,patient11931,MURA-v1.1/valid/XR_FINGER/patient11931/study1_negative/image3.png,0,0
-944,XR_FINGER,patient11931,MURA-v1.1/valid/XR_FINGER/patient11931/study1_negative/image1.png,0,0
+944,XR_FINGER,patient11931,MURA-v1.1/valid/XR_FINGER/patient11931/study1_negative/image1.png,0,1
 945,XR_FINGER,patient11929,MURA-v1.1/valid/XR_FINGER/patient11929/study1_negative/image2.png,0,0
 946,XR_FINGER,patient11929,MURA-v1.1/valid/XR_FINGER/patient11929/study1_negative/image3.png,0,0
 947,XR_FINGER,patient11929,MURA-v1.1/valid/XR_FINGER/patient11929/study1_negative/image1.png,0,0
@@ -975,7 +975,7 @@
 973,XR_FINGER,patient11900,MURA-v1.1/valid/XR_FINGER/patient11900/study1_positive/image3.png,1,0
 974,XR_FINGER,patient11900,MURA-v1.1/valid/XR_FINGER/patient11900/study1_positive/image1.png,1,0
 975,XR_FINGER,patient11619,MURA-v1.1/valid/XR_FINGER/patient11619/study1_positive/image2.png,1,1
-976,XR_FINGER,patient11619,MURA-v1.1/valid/XR_FINGER/patient11619/study1_positive/image3.png,1,0
+976,XR_FINGER,patient11619,MURA-v1.1/valid/XR_FINGER/patient11619/study1_positive/image3.png,1,1
 977,XR_FINGER,patient11619,MURA-v1.1/valid/XR_FINGER/patient11619/study1_positive/image1.png,1,1
 978,XR_FINGER,patient11649,MURA-v1.1/valid/XR_FINGER/patient11649/study1_negative/image2.png,0,0
 979,XR_FINGER,patient11649,MURA-v1.1/valid/XR_FINGER/patient11649/study1_negative/image3.png,0,0
@@ -1002,7 +1002,7 @@
 1000,XR_FINGER,patient11849,MURA-v1.1/valid/XR_FINGER/patient11849/study1_positive/image3.png,1,1
 1001,XR_FINGER,patient11849,MURA-v1.1/valid/XR_FINGER/patient11849/study1_positive/image1.png,1,1
 1002,XR_FINGER,patient11960,MURA-v1.1/valid/XR_FINGER/patient11960/study1_negative/image2.png,0,0
-1003,XR_FINGER,patient11960,MURA-v1.1/valid/XR_FINGER/patient11960/study1_negative/image3.png,0,1
+1003,XR_FINGER,patient11960,MURA-v1.1/valid/XR_FINGER/patient11960/study1_negative/image3.png,0,0
 1004,XR_FINGER,patient11960,MURA-v1.1/valid/XR_FINGER/patient11960/study1_negative/image1.png,0,0
 1005,XR_FINGER,patient11926,MURA-v1.1/valid/XR_FINGER/patient11926/study1_negative/image2.png,0,0
 1006,XR_FINGER,patient11926,MURA-v1.1/valid/XR_FINGER/patient11926/study1_negative/image3.png,0,0
@@ -1030,13 +1030,13 @@
 1028,XR_FINGER,patient11954,MURA-v1.1/valid/XR_FINGER/patient11954/study1_negative/image1.png,0,0
 1029,XR_FINGER,patient11234,MURA-v1.1/valid/XR_FINGER/patient11234/study1_negative/image1.png,0,0
 1030,XR_FINGER,patient11910,MURA-v1.1/valid/XR_FINGER/patient11910/study1_positive/image5.png,1,0
-1031,XR_FINGER,patient11910,MURA-v1.1/valid/XR_FINGER/patient11910/study1_positive/image2.png,1,0
+1031,XR_FINGER,patient11910,MURA-v1.1/valid/XR_FINGER/patient11910/study1_positive/image2.png,1,1
 1032,XR_FINGER,patient11910,MURA-v1.1/valid/XR_FINGER/patient11910/study1_positive/image3.png,1,1
 1033,XR_FINGER,patient11910,MURA-v1.1/valid/XR_FINGER/patient11910/study1_positive/image1.png,1,1
 1034,XR_FINGER,patient11910,MURA-v1.1/valid/XR_FINGER/patient11910/study1_positive/image4.png,1,1
 1035,XR_FINGER,patient11903,MURA-v1.1/valid/XR_FINGER/patient11903/study1_positive/image2.png,1,1
 1036,XR_FINGER,patient11903,MURA-v1.1/valid/XR_FINGER/patient11903/study1_positive/image3.png,1,1
-1037,XR_FINGER,patient11903,MURA-v1.1/valid/XR_FINGER/patient11903/study1_positive/image1.png,1,0
+1037,XR_FINGER,patient11903,MURA-v1.1/valid/XR_FINGER/patient11903/study1_positive/image1.png,1,1
 1038,XR_FINGER,patient11967,MURA-v1.1/valid/XR_FINGER/patient11967/study1_negative/image2.png,0,0
 1039,XR_FINGER,patient11967,MURA-v1.1/valid/XR_FINGER/patient11967/study1_negative/image3.png,0,0
 1040,XR_FINGER,patient11967,MURA-v1.1/valid/XR_FINGER/patient11967/study1_negative/image1.png,0,0
@@ -1065,7 +1065,7 @@
 1063,XR_FINGER,patient11908,MURA-v1.1/valid/XR_FINGER/patient11908/study1_positive/image2.png,1,1
 1064,XR_FINGER,patient11908,MURA-v1.1/valid/XR_FINGER/patient11908/study1_positive/image3.png,1,1
 1065,XR_FINGER,patient11908,MURA-v1.1/valid/XR_FINGER/patient11908/study1_positive/image1.png,1,1
-1066,XR_FINGER,patient11572,MURA-v1.1/valid/XR_FINGER/patient11572/study1_positive/image2.png,1,0
+1066,XR_FINGER,patient11572,MURA-v1.1/valid/XR_FINGER/patient11572/study1_positive/image2.png,1,1
 1067,XR_FINGER,patient11572,MURA-v1.1/valid/XR_FINGER/patient11572/study1_positive/image3.png,1,0
 1068,XR_FINGER,patient11572,MURA-v1.1/valid/XR_FINGER/patient11572/study1_positive/image1.png,1,0
 1069,XR_FINGER,patient11941,MURA-v1.1/valid/XR_FINGER/patient11941/study1_negative/image2.png,0,0
@@ -1074,7 +1074,7 @@
 1072,XR_FINGER,patient11902,MURA-v1.1/valid/XR_FINGER/patient11902/study1_positive/image2.png,1,0
 1073,XR_FINGER,patient11902,MURA-v1.1/valid/XR_FINGER/patient11902/study1_positive/image3.png,1,0
 1074,XR_FINGER,patient11902,MURA-v1.1/valid/XR_FINGER/patient11902/study1_positive/image1.png,1,0
-1075,XR_FINGER,patient11902,MURA-v1.1/valid/XR_FINGER/patient11902/study1_positive/image4.png,1,1
+1075,XR_FINGER,patient11902,MURA-v1.1/valid/XR_FINGER/patient11902/study1_positive/image4.png,1,0
 1076,XR_FINGER,patient11907,MURA-v1.1/valid/XR_FINGER/patient11907/study1_positive/image2.png,1,1
 1077,XR_FINGER,patient11907,MURA-v1.1/valid/XR_FINGER/patient11907/study1_positive/image3.png,1,1
 1078,XR_FINGER,patient11907,MURA-v1.1/valid/XR_FINGER/patient11907/study1_positive/image1.png,1,0
@@ -1111,7 +1111,7 @@
 1109,XR_FINGER,patient11942,MURA-v1.1/valid/XR_FINGER/patient11942/study1_negative/image1.png,0,0
 1110,XR_FINGER,patient11886,MURA-v1.1/valid/XR_FINGER/patient11886/study1_positive/image1.png,1,0
 1111,XR_FINGER,patient11466,MURA-v1.1/valid/XR_FINGER/patient11466/study1_positive/image2.png,1,1
-1112,XR_FINGER,patient11466,MURA-v1.1/valid/XR_FINGER/patient11466/study1_positive/image3.png,1,1
+1112,XR_FINGER,patient11466,MURA-v1.1/valid/XR_FINGER/patient11466/study1_positive/image3.png,1,0
 1113,XR_FINGER,patient11466,MURA-v1.1/valid/XR_FINGER/patient11466/study1_positive/image1.png,1,0
 1114,XR_FINGER,patient11723,MURA-v1.1/valid/XR_FINGER/patient11723/study1_positive/image2.png,1,1
 1115,XR_FINGER,patient11723,MURA-v1.1/valid/XR_FINGER/patient11723/study1_positive/image3.png,1,0
@@ -1219,7 +1219,7 @@
 1217,XR_FINGER,patient11754,MURA-v1.1/valid/XR_FINGER/patient11754/study1_positive/image1.png,1,0
 1218,XR_FINGER,patient11928,MURA-v1.1/valid/XR_FINGER/patient11928/study1_negative/image2.png,0,0
 1219,XR_FINGER,patient11928,MURA-v1.1/valid/XR_FINGER/patient11928/study1_negative/image3.png,0,0
-1220,XR_FINGER,patient11928,MURA-v1.1/valid/XR_FINGER/patient11928/study1_negative/image1.png,0,0
+1220,XR_FINGER,patient11928,MURA-v1.1/valid/XR_FINGER/patient11928/study1_negative/image1.png,0,1
 1221,XR_FINGER,patient11647,MURA-v1.1/valid/XR_FINGER/patient11647/study1_negative/image1.png,0,0
 1222,XR_SHOULDER,patient11743,MURA-v1.1/valid/XR_SHOULDER/patient11743/study1_positive/image2.png,1,0
 1223,XR_SHOULDER,patient11743,MURA-v1.1/valid/XR_SHOULDER/patient11743/study1_positive/image3.png,1,0
@@ -1237,13 +1237,13 @@
 1235,XR_SHOULDER,patient11759,MURA-v1.1/valid/XR_SHOULDER/patient11759/study1_negative/image2.png,0,1
 1236,XR_SHOULDER,patient11759,MURA-v1.1/valid/XR_SHOULDER/patient11759/study1_negative/image3.png,0,0
 1237,XR_SHOULDER,patient11759,MURA-v1.1/valid/XR_SHOULDER/patient11759/study1_negative/image1.png,0,1
-1238,XR_SHOULDER,patient11759,MURA-v1.1/valid/XR_SHOULDER/patient11759/study1_negative/image4.png,0,1
+1238,XR_SHOULDER,patient11759,MURA-v1.1/valid/XR_SHOULDER/patient11759/study1_negative/image4.png,0,0
 1239,XR_SHOULDER,patient11787,MURA-v1.1/valid/XR_SHOULDER/patient11787/study1_negative/image2.png,0,0
 1240,XR_SHOULDER,patient11787,MURA-v1.1/valid/XR_SHOULDER/patient11787/study1_negative/image3.png,0,0
 1241,XR_SHOULDER,patient11787,MURA-v1.1/valid/XR_SHOULDER/patient11787/study1_negative/image1.png,0,0
 1242,XR_SHOULDER,patient11733,MURA-v1.1/valid/XR_SHOULDER/patient11733/study1_positive/image2.png,1,1
 1243,XR_SHOULDER,patient11733,MURA-v1.1/valid/XR_SHOULDER/patient11733/study1_positive/image3.png,1,1
-1244,XR_SHOULDER,patient11733,MURA-v1.1/valid/XR_SHOULDER/patient11733/study1_positive/image1.png,1,1
+1244,XR_SHOULDER,patient11733,MURA-v1.1/valid/XR_SHOULDER/patient11733/study1_positive/image1.png,1,0
 1245,XR_SHOULDER,patient11733,MURA-v1.1/valid/XR_SHOULDER/patient11733/study1_positive/image4.png,1,0
 1246,XR_SHOULDER,patient11773,MURA-v1.1/valid/XR_SHOULDER/patient11773/study1_negative/image2.png,0,1
 1247,XR_SHOULDER,patient11773,MURA-v1.1/valid/XR_SHOULDER/patient11773/study1_negative/image3.png,0,1
@@ -1258,7 +1258,7 @@
 1256,XR_SHOULDER,patient11356,MURA-v1.1/valid/XR_SHOULDER/patient11356/study1_negative/image1.png,0,0
 1257,XR_SHOULDER,patient11714,MURA-v1.1/valid/XR_SHOULDER/patient11714/study1_positive/image2.png,1,0
 1258,XR_SHOULDER,patient11714,MURA-v1.1/valid/XR_SHOULDER/patient11714/study1_positive/image3.png,1,1
-1259,XR_SHOULDER,patient11714,MURA-v1.1/valid/XR_SHOULDER/patient11714/study1_positive/image1.png,1,1
+1259,XR_SHOULDER,patient11714,MURA-v1.1/valid/XR_SHOULDER/patient11714/study1_positive/image1.png,1,0
 1260,XR_SHOULDER,patient11714,MURA-v1.1/valid/XR_SHOULDER/patient11714/study1_positive/image4.png,1,0
 1261,XR_SHOULDER,patient11778,MURA-v1.1/valid/XR_SHOULDER/patient11778/study1_negative/image2.png,0,0
 1262,XR_SHOULDER,patient11778,MURA-v1.1/valid/XR_SHOULDER/patient11778/study1_negative/image3.png,0,0
@@ -1284,7 +1284,7 @@
 1282,XR_SHOULDER,patient11771,MURA-v1.1/valid/XR_SHOULDER/patient11771/study1_negative/image4.png,0,0
 1283,XR_SHOULDER,patient11368,MURA-v1.1/valid/XR_SHOULDER/patient11368/study1_positive/image2.png,1,1
 1284,XR_SHOULDER,patient11368,MURA-v1.1/valid/XR_SHOULDER/patient11368/study1_positive/image3.png,1,1
-1285,XR_SHOULDER,patient11368,MURA-v1.1/valid/XR_SHOULDER/patient11368/study1_positive/image1.png,1,0
+1285,XR_SHOULDER,patient11368,MURA-v1.1/valid/XR_SHOULDER/patient11368/study1_positive/image1.png,1,1
 1286,XR_SHOULDER,patient11368,MURA-v1.1/valid/XR_SHOULDER/patient11368/study1_positive/image4.png,1,1
 1287,XR_SHOULDER,patient11706,MURA-v1.1/valid/XR_SHOULDER/patient11706/study1_positive/image2.png,1,0
 1288,XR_SHOULDER,patient11706,MURA-v1.1/valid/XR_SHOULDER/patient11706/study1_positive/image3.png,1,1
@@ -1296,12 +1296,12 @@
 1294,XR_SHOULDER,patient11213,MURA-v1.1/valid/XR_SHOULDER/patient11213/study1_positive/image2.png,1,1
 1295,XR_SHOULDER,patient11213,MURA-v1.1/valid/XR_SHOULDER/patient11213/study1_positive/image1.png,1,0
 1296,XR_SHOULDER,patient11518,MURA-v1.1/valid/XR_SHOULDER/patient11518/study1_positive/image2.png,1,1
-1297,XR_SHOULDER,patient11518,MURA-v1.1/valid/XR_SHOULDER/patient11518/study1_positive/image3.png,1,0
+1297,XR_SHOULDER,patient11518,MURA-v1.1/valid/XR_SHOULDER/patient11518/study1_positive/image3.png,1,1
 1298,XR_SHOULDER,patient11518,MURA-v1.1/valid/XR_SHOULDER/patient11518/study1_positive/image1.png,1,1
 1299,XR_SHOULDER,patient11786,MURA-v1.1/valid/XR_SHOULDER/patient11786/study1_negative/image2.png,0,0
 1300,XR_SHOULDER,patient11786,MURA-v1.1/valid/XR_SHOULDER/patient11786/study1_negative/image3.png,0,1
 1301,XR_SHOULDER,patient11786,MURA-v1.1/valid/XR_SHOULDER/patient11786/study1_negative/image1.png,0,0
-1302,XR_SHOULDER,patient11752,MURA-v1.1/valid/XR_SHOULDER/patient11752/study1_negative/image2.png,0,1
+1302,XR_SHOULDER,patient11752,MURA-v1.1/valid/XR_SHOULDER/patient11752/study1_negative/image2.png,0,0
 1303,XR_SHOULDER,patient11752,MURA-v1.1/valid/XR_SHOULDER/patient11752/study1_negative/image3.png,0,0
 1304,XR_SHOULDER,patient11752,MURA-v1.1/valid/XR_SHOULDER/patient11752/study1_negative/image1.png,0,1
 1305,XR_SHOULDER,patient11777,MURA-v1.1/valid/XR_SHOULDER/patient11777/study1_negative/image5.png,0,0
@@ -1324,7 +1324,7 @@
 1322,XR_SHOULDER,patient11188,MURA-v1.1/valid/XR_SHOULDER/patient11188/study1_positive/image2.png,1,1
 1323,XR_SHOULDER,patient11188,MURA-v1.1/valid/XR_SHOULDER/patient11188/study1_positive/image3.png,1,1
 1324,XR_SHOULDER,patient11188,MURA-v1.1/valid/XR_SHOULDER/patient11188/study1_positive/image1.png,1,1
-1325,XR_SHOULDER,patient11188,MURA-v1.1/valid/XR_SHOULDER/patient11188/study2_positive/image2.png,1,0
+1325,XR_SHOULDER,patient11188,MURA-v1.1/valid/XR_SHOULDER/patient11188/study2_positive/image2.png,1,1
 1326,XR_SHOULDER,patient11188,MURA-v1.1/valid/XR_SHOULDER/patient11188/study2_positive/image3.png,1,0
 1327,XR_SHOULDER,patient11188,MURA-v1.1/valid/XR_SHOULDER/patient11188/study2_positive/image1.png,1,1
 1328,XR_SHOULDER,patient11746,MURA-v1.1/valid/XR_SHOULDER/patient11746/study1_positive/image2.png,1,1
@@ -1332,10 +1332,10 @@
 1330,XR_SHOULDER,patient11746,MURA-v1.1/valid/XR_SHOULDER/patient11746/study1_positive/image1.png,1,0
 1331,XR_SHOULDER,patient11317,MURA-v1.1/valid/XR_SHOULDER/patient11317/study1_positive/image2.png,1,1
 1332,XR_SHOULDER,patient11317,MURA-v1.1/valid/XR_SHOULDER/patient11317/study1_positive/image3.png,1,0
-1333,XR_SHOULDER,patient11317,MURA-v1.1/valid/XR_SHOULDER/patient11317/study1_positive/image1.png,1,1
+1333,XR_SHOULDER,patient11317,MURA-v1.1/valid/XR_SHOULDER/patient11317/study1_positive/image1.png,1,0
 1334,XR_SHOULDER,patient11317,MURA-v1.1/valid/XR_SHOULDER/patient11317/study1_positive/image4.png,1,0
-1335,XR_SHOULDER,patient11767,MURA-v1.1/valid/XR_SHOULDER/patient11767/study1_negative/image2.png,0,1
-1336,XR_SHOULDER,patient11767,MURA-v1.1/valid/XR_SHOULDER/patient11767/study1_negative/image3.png,0,0
+1335,XR_SHOULDER,patient11767,MURA-v1.1/valid/XR_SHOULDER/patient11767/study1_negative/image2.png,0,0
+1336,XR_SHOULDER,patient11767,MURA-v1.1/valid/XR_SHOULDER/patient11767/study1_negative/image3.png,0,1
 1337,XR_SHOULDER,patient11767,MURA-v1.1/valid/XR_SHOULDER/patient11767/study1_negative/image1.png,0,0
 1338,XR_SHOULDER,patient11767,MURA-v1.1/valid/XR_SHOULDER/patient11767/study1_negative/image4.png,0,0
 1339,XR_SHOULDER,patient11774,MURA-v1.1/valid/XR_SHOULDER/patient11774/study1_negative/image2.png,0,0
@@ -1380,7 +1380,7 @@
 1378,XR_SHOULDER,patient11758,MURA-v1.1/valid/XR_SHOULDER/patient11758/study1_negative/image3.png,0,1
 1379,XR_SHOULDER,patient11758,MURA-v1.1/valid/XR_SHOULDER/patient11758/study1_negative/image1.png,0,0
 1380,XR_SHOULDER,patient11758,MURA-v1.1/valid/XR_SHOULDER/patient11758/study1_negative/image4.png,0,0
-1381,XR_SHOULDER,patient11338,MURA-v1.1/valid/XR_SHOULDER/patient11338/study1_negative/image2.png,0,0
+1381,XR_SHOULDER,patient11338,MURA-v1.1/valid/XR_SHOULDER/patient11338/study1_negative/image2.png,0,1
 1382,XR_SHOULDER,patient11338,MURA-v1.1/valid/XR_SHOULDER/patient11338/study1_negative/image3.png,0,0
 1383,XR_SHOULDER,patient11338,MURA-v1.1/valid/XR_SHOULDER/patient11338/study1_negative/image1.png,0,0
 1384,XR_SHOULDER,patient11338,MURA-v1.1/valid/XR_SHOULDER/patient11338/study1_negative/image4.png,0,0
@@ -1407,7 +1407,7 @@
 1405,XR_SHOULDER,patient11797,MURA-v1.1/valid/XR_SHOULDER/patient11797/study1_negative/image2.png,0,0
 1406,XR_SHOULDER,patient11797,MURA-v1.1/valid/XR_SHOULDER/patient11797/study1_negative/image3.png,0,1
 1407,XR_SHOULDER,patient11797,MURA-v1.1/valid/XR_SHOULDER/patient11797/study1_negative/image1.png,0,1
-1408,XR_SHOULDER,patient11417,MURA-v1.1/valid/XR_SHOULDER/patient11417/study3_negative/image2.png,0,0
+1408,XR_SHOULDER,patient11417,MURA-v1.1/valid/XR_SHOULDER/patient11417/study3_negative/image2.png,0,1
 1409,XR_SHOULDER,patient11417,MURA-v1.1/valid/XR_SHOULDER/patient11417/study3_negative/image1.png,0,0
 1410,XR_SHOULDER,patient11417,MURA-v1.1/valid/XR_SHOULDER/patient11417/study1_positive/image2.png,1,0
 1411,XR_SHOULDER,patient11417,MURA-v1.1/valid/XR_SHOULDER/patient11417/study1_positive/image3.png,1,0
@@ -1418,7 +1418,7 @@
 1416,XR_SHOULDER,patient11417,MURA-v1.1/valid/XR_SHOULDER/patient11417/study2_negative/image1.png,0,0
 1417,XR_SHOULDER,patient11300,MURA-v1.1/valid/XR_SHOULDER/patient11300/study3_negative/image2.png,0,1
 1418,XR_SHOULDER,patient11300,MURA-v1.1/valid/XR_SHOULDER/patient11300/study3_negative/image3.png,0,1
-1419,XR_SHOULDER,patient11300,MURA-v1.1/valid/XR_SHOULDER/patient11300/study3_negative/image1.png,0,0
+1419,XR_SHOULDER,patient11300,MURA-v1.1/valid/XR_SHOULDER/patient11300/study3_negative/image1.png,0,1
 1420,XR_SHOULDER,patient11300,MURA-v1.1/valid/XR_SHOULDER/patient11300/study1_positive/image2.png,1,1
 1421,XR_SHOULDER,patient11300,MURA-v1.1/valid/XR_SHOULDER/patient11300/study1_positive/image3.png,1,1
 1422,XR_SHOULDER,patient11300,MURA-v1.1/valid/XR_SHOULDER/patient11300/study1_positive/image1.png,1,1
@@ -1435,7 +1435,7 @@
 1433,XR_SHOULDER,patient11792,MURA-v1.1/valid/XR_SHOULDER/patient11792/study1_negative/image1.png,0,0
 1434,XR_SHOULDER,patient11236,MURA-v1.1/valid/XR_SHOULDER/patient11236/study1_negative/image2.png,0,0
 1435,XR_SHOULDER,patient11236,MURA-v1.1/valid/XR_SHOULDER/patient11236/study1_negative/image3.png,0,0
-1436,XR_SHOULDER,patient11236,MURA-v1.1/valid/XR_SHOULDER/patient11236/study1_negative/image1.png,0,0
+1436,XR_SHOULDER,patient11236,MURA-v1.1/valid/XR_SHOULDER/patient11236/study1_negative/image1.png,0,1
 1437,XR_SHOULDER,patient11730,MURA-v1.1/valid/XR_SHOULDER/patient11730/study1_positive/image2.png,1,1
 1438,XR_SHOULDER,patient11730,MURA-v1.1/valid/XR_SHOULDER/patient11730/study1_positive/image3.png,1,0
 1439,XR_SHOULDER,patient11730,MURA-v1.1/valid/XR_SHOULDER/patient11730/study1_positive/image1.png,1,1
@@ -1477,7 +1477,7 @@
 1475,XR_SHOULDER,patient11722,MURA-v1.1/valid/XR_SHOULDER/patient11722/study1_positive/image1.png,1,1
 1476,XR_SHOULDER,patient11762,MURA-v1.1/valid/XR_SHOULDER/patient11762/study1_negative/image2.png,0,0
 1477,XR_SHOULDER,patient11762,MURA-v1.1/valid/XR_SHOULDER/patient11762/study1_negative/image3.png,0,0
-1478,XR_SHOULDER,patient11762,MURA-v1.1/valid/XR_SHOULDER/patient11762/study1_negative/image1.png,0,1
+1478,XR_SHOULDER,patient11762,MURA-v1.1/valid/XR_SHOULDER/patient11762/study1_negative/image1.png,0,0
 1479,XR_SHOULDER,patient11757,MURA-v1.1/valid/XR_SHOULDER/patient11757/study1_negative/image2.png,0,0
 1480,XR_SHOULDER,patient11757,MURA-v1.1/valid/XR_SHOULDER/patient11757/study1_negative/image3.png,0,0
 1481,XR_SHOULDER,patient11757,MURA-v1.1/valid/XR_SHOULDER/patient11757/study1_negative/image1.png,0,0
@@ -1509,7 +1509,7 @@
 1507,XR_SHOULDER,patient11579,MURA-v1.1/valid/XR_SHOULDER/patient11579/study1_positive/image1.png,1,1
 1508,XR_SHOULDER,patient11380,MURA-v1.1/valid/XR_SHOULDER/patient11380/study1_positive/image2.png,1,1
 1509,XR_SHOULDER,patient11380,MURA-v1.1/valid/XR_SHOULDER/patient11380/study1_positive/image1.png,1,1
-1510,XR_SHOULDER,patient11186,MURA-v1.1/valid/XR_SHOULDER/patient11186/study1_positive/image2.png,1,0
+1510,XR_SHOULDER,patient11186,MURA-v1.1/valid/XR_SHOULDER/patient11186/study1_positive/image2.png,1,1
 1511,XR_SHOULDER,patient11186,MURA-v1.1/valid/XR_SHOULDER/patient11186/study1_positive/image3.png,1,1
 1512,XR_SHOULDER,patient11186,MURA-v1.1/valid/XR_SHOULDER/patient11186/study1_positive/image1.png,1,0
 1513,XR_SHOULDER,patient11549,MURA-v1.1/valid/XR_SHOULDER/patient11549/study1_positive/image2.png,1,1
@@ -1535,7 +1535,7 @@
 1533,XR_SHOULDER,patient11439,MURA-v1.1/valid/XR_SHOULDER/patient11439/study1_negative/image4.png,0,0
 1534,XR_SHOULDER,patient11704,MURA-v1.1/valid/XR_SHOULDER/patient11704/study1_positive/image2.png,1,0
 1535,XR_SHOULDER,patient11704,MURA-v1.1/valid/XR_SHOULDER/patient11704/study1_positive/image1.png,1,0
-1536,XR_SHOULDER,patient11800,MURA-v1.1/valid/XR_SHOULDER/patient11800/study1_negative/image1.png,0,1
+1536,XR_SHOULDER,patient11800,MURA-v1.1/valid/XR_SHOULDER/patient11800/study1_negative/image1.png,0,0
 1537,XR_SHOULDER,patient11235,MURA-v1.1/valid/XR_SHOULDER/patient11235/study1_negative/image2.png,0,0
 1538,XR_SHOULDER,patient11235,MURA-v1.1/valid/XR_SHOULDER/patient11235/study1_negative/image3.png,0,0
 1539,XR_SHOULDER,patient11235,MURA-v1.1/valid/XR_SHOULDER/patient11235/study1_negative/image1.png,0,0
@@ -1583,14 +1583,14 @@
 1581,XR_SHOULDER,patient11766,MURA-v1.1/valid/XR_SHOULDER/patient11766/study1_negative/image2.png,0,1
 1582,XR_SHOULDER,patient11766,MURA-v1.1/valid/XR_SHOULDER/patient11766/study1_negative/image3.png,0,0
 1583,XR_SHOULDER,patient11766,MURA-v1.1/valid/XR_SHOULDER/patient11766/study1_negative/image1.png,0,0
-1584,XR_SHOULDER,patient11724,MURA-v1.1/valid/XR_SHOULDER/patient11724/study1_positive/image2.png,1,1
+1584,XR_SHOULDER,patient11724,MURA-v1.1/valid/XR_SHOULDER/patient11724/study1_positive/image2.png,1,0
 1585,XR_SHOULDER,patient11724,MURA-v1.1/valid/XR_SHOULDER/patient11724/study1_positive/image3.png,1,1
 1586,XR_SHOULDER,patient11724,MURA-v1.1/valid/XR_SHOULDER/patient11724/study1_positive/image1.png,1,0
 1587,XR_SHOULDER,patient11301,MURA-v1.1/valid/XR_SHOULDER/patient11301/study1_positive/image1.png,1,0
-1588,XR_SHOULDER,patient11455,MURA-v1.1/valid/XR_SHOULDER/patient11455/study1_negative/image2.png,0,1
+1588,XR_SHOULDER,patient11455,MURA-v1.1/valid/XR_SHOULDER/patient11455/study1_negative/image2.png,0,0
 1589,XR_SHOULDER,patient11455,MURA-v1.1/valid/XR_SHOULDER/patient11455/study1_negative/image3.png,0,0
 1590,XR_SHOULDER,patient11455,MURA-v1.1/valid/XR_SHOULDER/patient11455/study1_negative/image1.png,0,1
-1591,XR_SHOULDER,patient11550,MURA-v1.1/valid/XR_SHOULDER/patient11550/study1_negative/image2.png,0,1
+1591,XR_SHOULDER,patient11550,MURA-v1.1/valid/XR_SHOULDER/patient11550/study1_negative/image2.png,0,0
 1592,XR_SHOULDER,patient11550,MURA-v1.1/valid/XR_SHOULDER/patient11550/study1_negative/image1.png,0,0
 1593,XR_SHOULDER,patient11550,MURA-v1.1/valid/XR_SHOULDER/patient11550/study2_negative/image2.png,0,0
 1594,XR_SHOULDER,patient11550,MURA-v1.1/valid/XR_SHOULDER/patient11550/study2_negative/image3.png,0,0
@@ -1601,7 +1601,7 @@
 1599,XR_SHOULDER,patient11791,MURA-v1.1/valid/XR_SHOULDER/patient11791/study1_negative/image3.png,0,0
 1600,XR_SHOULDER,patient11791,MURA-v1.1/valid/XR_SHOULDER/patient11791/study1_negative/image1.png,0,0
 1601,XR_SHOULDER,patient11791,MURA-v1.1/valid/XR_SHOULDER/patient11791/study1_negative/image4.png,0,1
-1602,XR_SHOULDER,patient11283,MURA-v1.1/valid/XR_SHOULDER/patient11283/study1_positive/image2.png,1,0
+1602,XR_SHOULDER,patient11283,MURA-v1.1/valid/XR_SHOULDER/patient11283/study1_positive/image2.png,1,1
 1603,XR_SHOULDER,patient11283,MURA-v1.1/valid/XR_SHOULDER/patient11283/study1_positive/image3.png,1,0
 1604,XR_SHOULDER,patient11283,MURA-v1.1/valid/XR_SHOULDER/patient11283/study1_positive/image1.png,1,0
 1605,XR_SHOULDER,patient11283,MURA-v1.1/valid/XR_SHOULDER/patient11283/study2_negative/image1.png,0,1
@@ -1609,7 +1609,7 @@
 1607,XR_SHOULDER,patient11290,MURA-v1.1/valid/XR_SHOULDER/patient11290/study1_positive/image3.png,1,1
 1608,XR_SHOULDER,patient11290,MURA-v1.1/valid/XR_SHOULDER/patient11290/study1_positive/image1.png,1,1
 1609,XR_SHOULDER,patient11290,MURA-v1.1/valid/XR_SHOULDER/patient11290/study1_positive/image4.png,1,1
-1610,XR_SHOULDER,patient11290,MURA-v1.1/valid/XR_SHOULDER/patient11290/study2_positive/image2.png,1,0
+1610,XR_SHOULDER,patient11290,MURA-v1.1/valid/XR_SHOULDER/patient11290/study2_positive/image2.png,1,1
 1611,XR_SHOULDER,patient11290,MURA-v1.1/valid/XR_SHOULDER/patient11290/study2_positive/image3.png,1,0
 1612,XR_SHOULDER,patient11290,MURA-v1.1/valid/XR_SHOULDER/patient11290/study2_positive/image1.png,1,0
 1613,XR_SHOULDER,patient11736,MURA-v1.1/valid/XR_SHOULDER/patient11736/study1_positive/image1.png,1,1
@@ -1640,7 +1640,7 @@
 1638,XR_SHOULDER,patient11794,MURA-v1.1/valid/XR_SHOULDER/patient11794/study1_negative/image4.png,0,0
 1639,XR_SHOULDER,patient11763,MURA-v1.1/valid/XR_SHOULDER/patient11763/study1_negative/image2.png,0,0
 1640,XR_SHOULDER,patient11763,MURA-v1.1/valid/XR_SHOULDER/patient11763/study1_negative/image3.png,0,0
-1641,XR_SHOULDER,patient11763,MURA-v1.1/valid/XR_SHOULDER/patient11763/study1_negative/image1.png,0,0
+1641,XR_SHOULDER,patient11763,MURA-v1.1/valid/XR_SHOULDER/patient11763/study1_negative/image1.png,0,1
 1642,XR_SHOULDER,patient11728,MURA-v1.1/valid/XR_SHOULDER/patient11728/study1_positive/image2.png,1,1
 1643,XR_SHOULDER,patient11728,MURA-v1.1/valid/XR_SHOULDER/patient11728/study1_positive/image3.png,1,0
 1644,XR_SHOULDER,patient11728,MURA-v1.1/valid/XR_SHOULDER/patient11728/study1_positive/image1.png,1,1
@@ -1663,7 +1663,7 @@
 1661,XR_SHOULDER,patient11741,MURA-v1.1/valid/XR_SHOULDER/patient11741/study1_positive/image3.png,1,0
 1662,XR_SHOULDER,patient11741,MURA-v1.1/valid/XR_SHOULDER/patient11741/study1_positive/image1.png,1,0
 1663,XR_SHOULDER,patient11785,MURA-v1.1/valid/XR_SHOULDER/patient11785/study1_negative/image1.png,0,0
-1664,XR_SHOULDER,patient11747,MURA-v1.1/valid/XR_SHOULDER/patient11747/study1_positive/image1.png,1,0
+1664,XR_SHOULDER,patient11747,MURA-v1.1/valid/XR_SHOULDER/patient11747/study1_positive/image1.png,1,1
 1665,XR_SHOULDER,patient11257,MURA-v1.1/valid/XR_SHOULDER/patient11257/study1_positive/image5.png,1,0
 1666,XR_SHOULDER,patient11257,MURA-v1.1/valid/XR_SHOULDER/patient11257/study1_positive/image2.png,1,0
 1667,XR_SHOULDER,patient11257,MURA-v1.1/valid/XR_SHOULDER/patient11257/study1_positive/image3.png,1,0
@@ -1674,7 +1674,7 @@
 1672,XR_SHOULDER,patient11313,MURA-v1.1/valid/XR_SHOULDER/patient11313/study1_positive/image1.png,1,1
 1673,XR_SHOULDER,patient11313,MURA-v1.1/valid/XR_SHOULDER/patient11313/study2_negative/image2.png,0,1
 1674,XR_SHOULDER,patient11313,MURA-v1.1/valid/XR_SHOULDER/patient11313/study2_negative/image1.png,0,0
-1675,XR_SHOULDER,patient11342,MURA-v1.1/valid/XR_SHOULDER/patient11342/study1_negative/image2.png,0,1
+1675,XR_SHOULDER,patient11342,MURA-v1.1/valid/XR_SHOULDER/patient11342/study1_negative/image2.png,0,0
 1676,XR_SHOULDER,patient11342,MURA-v1.1/valid/XR_SHOULDER/patient11342/study1_negative/image3.png,0,0
 1677,XR_SHOULDER,patient11342,MURA-v1.1/valid/XR_SHOULDER/patient11342/study1_negative/image1.png,0,0
 1678,XR_SHOULDER,patient11716,MURA-v1.1/valid/XR_SHOULDER/patient11716/study1_positive/image2.png,1,1
@@ -1702,13 +1702,13 @@
 1700,XR_SHOULDER,patient11466,MURA-v1.1/valid/XR_SHOULDER/patient11466/study1_negative/image2.png,0,0
 1701,XR_SHOULDER,patient11466,MURA-v1.1/valid/XR_SHOULDER/patient11466/study1_negative/image1.png,0,1
 1702,XR_SHOULDER,patient11723,MURA-v1.1/valid/XR_SHOULDER/patient11723/study1_positive/image2.png,1,1
-1703,XR_SHOULDER,patient11723,MURA-v1.1/valid/XR_SHOULDER/patient11723/study1_positive/image3.png,1,0
+1703,XR_SHOULDER,patient11723,MURA-v1.1/valid/XR_SHOULDER/patient11723/study1_positive/image3.png,1,1
 1704,XR_SHOULDER,patient11723,MURA-v1.1/valid/XR_SHOULDER/patient11723/study1_positive/image1.png,1,1
 1705,XR_SHOULDER,patient11723,MURA-v1.1/valid/XR_SHOULDER/patient11723/study1_positive/image4.png,1,1
 1706,XR_SHOULDER,patient11709,MURA-v1.1/valid/XR_SHOULDER/patient11709/study1_positive/image2.png,1,0
-1707,XR_SHOULDER,patient11709,MURA-v1.1/valid/XR_SHOULDER/patient11709/study1_positive/image1.png,1,1
+1707,XR_SHOULDER,patient11709,MURA-v1.1/valid/XR_SHOULDER/patient11709/study1_positive/image1.png,1,0
 1708,XR_SHOULDER,patient11709,MURA-v1.1/valid/XR_SHOULDER/patient11709/study2_negative/image2.png,0,0
-1709,XR_SHOULDER,patient11709,MURA-v1.1/valid/XR_SHOULDER/patient11709/study2_negative/image3.png,0,1
+1709,XR_SHOULDER,patient11709,MURA-v1.1/valid/XR_SHOULDER/patient11709/study2_negative/image3.png,0,0
 1710,XR_SHOULDER,patient11709,MURA-v1.1/valid/XR_SHOULDER/patient11709/study2_negative/image1.png,0,0
 1711,XR_SHOULDER,patient11325,MURA-v1.1/valid/XR_SHOULDER/patient11325/study1_positive/image2.png,1,0
 1712,XR_SHOULDER,patient11325,MURA-v1.1/valid/XR_SHOULDER/patient11325/study1_positive/image3.png,1,1
@@ -1721,7 +1721,7 @@
 1719,XR_SHOULDER,patient11586,MURA-v1.1/valid/XR_SHOULDER/patient11586/study1_positive/image1.png,1,1
 1720,XR_SHOULDER,patient11351,MURA-v1.1/valid/XR_SHOULDER/patient11351/study1_negative/image2.png,0,1
 1721,XR_SHOULDER,patient11351,MURA-v1.1/valid/XR_SHOULDER/patient11351/study1_negative/image3.png,0,0
-1722,XR_SHOULDER,patient11351,MURA-v1.1/valid/XR_SHOULDER/patient11351/study1_negative/image1.png,0,1
+1722,XR_SHOULDER,patient11351,MURA-v1.1/valid/XR_SHOULDER/patient11351/study1_negative/image1.png,0,0
 1723,XR_SHOULDER,patient11351,MURA-v1.1/valid/XR_SHOULDER/patient11351/study1_negative/image4.png,0,0
 1724,XR_SHOULDER,patient11748,MURA-v1.1/valid/XR_SHOULDER/patient11748/study1_positive/image2.png,1,1
 1725,XR_SHOULDER,patient11748,MURA-v1.1/valid/XR_SHOULDER/patient11748/study1_positive/image3.png,1,1
@@ -1747,7 +1747,7 @@
 1745,XR_SHOULDER,patient11281,MURA-v1.1/valid/XR_SHOULDER/patient11281/study1_positive/image3.png,1,0
 1746,XR_SHOULDER,patient11281,MURA-v1.1/valid/XR_SHOULDER/patient11281/study1_positive/image1.png,1,0
 1747,XR_SHOULDER,patient11789,MURA-v1.1/valid/XR_SHOULDER/patient11789/study1_negative/image2.png,0,0
-1748,XR_SHOULDER,patient11789,MURA-v1.1/valid/XR_SHOULDER/patient11789/study1_negative/image3.png,0,1
+1748,XR_SHOULDER,patient11789,MURA-v1.1/valid/XR_SHOULDER/patient11789/study1_negative/image3.png,0,0
 1749,XR_SHOULDER,patient11789,MURA-v1.1/valid/XR_SHOULDER/patient11789/study1_negative/image1.png,0,0
 1750,XR_SHOULDER,patient11775,MURA-v1.1/valid/XR_SHOULDER/patient11775/study1_negative/image1.png,0,1
 1751,XR_SHOULDER,patient11705,MURA-v1.1/valid/XR_SHOULDER/patient11705/study1_positive/image2.png,1,1
@@ -1837,7 +1837,7 @@
 1835,XR_WRIST,patient11232,MURA-v1.1/valid/XR_WRIST/patient11232/study1_positive/image3.png,1,0
 1836,XR_WRIST,patient11232,MURA-v1.1/valid/XR_WRIST/patient11232/study1_positive/image1.png,1,0
 1837,XR_WRIST,patient11232,MURA-v1.1/valid/XR_WRIST/patient11232/study1_positive/image4.png,1,0
-1838,XR_WRIST,patient11327,MURA-v1.1/valid/XR_WRIST/patient11327/study1_negative/image2.png,0,1
+1838,XR_WRIST,patient11327,MURA-v1.1/valid/XR_WRIST/patient11327/study1_negative/image2.png,0,0
 1839,XR_WRIST,patient11327,MURA-v1.1/valid/XR_WRIST/patient11327/study1_negative/image3.png,0,0
 1840,XR_WRIST,patient11327,MURA-v1.1/valid/XR_WRIST/patient11327/study1_negative/image1.png,0,1
 1841,XR_WRIST,patient11327,MURA-v1.1/valid/XR_WRIST/patient11327/study1_negative/image4.png,0,1
@@ -1862,7 +1862,7 @@
 1860,XR_WRIST,patient11305,MURA-v1.1/valid/XR_WRIST/patient11305/study2_negative/image1.png,0,0
 1861,XR_WRIST,patient11305,MURA-v1.1/valid/XR_WRIST/patient11305/study2_negative/image4.png,0,0
 1862,XR_WRIST,patient11274,MURA-v1.1/valid/XR_WRIST/patient11274/study1_positive/image2.png,1,1
-1863,XR_WRIST,patient11274,MURA-v1.1/valid/XR_WRIST/patient11274/study1_positive/image3.png,1,1
+1863,XR_WRIST,patient11274,MURA-v1.1/valid/XR_WRIST/patient11274/study1_positive/image3.png,1,0
 1864,XR_WRIST,patient11274,MURA-v1.1/valid/XR_WRIST/patient11274/study1_positive/image1.png,1,1
 1865,XR_WRIST,patient11274,MURA-v1.1/valid/XR_WRIST/patient11274/study1_positive/image4.png,1,0
 1866,XR_WRIST,patient11322,MURA-v1.1/valid/XR_WRIST/patient11322/study1_negative/image2.png,0,0
@@ -1889,7 +1889,7 @@
 1887,XR_WRIST,patient11213,MURA-v1.1/valid/XR_WRIST/patient11213/study1_positive/image1.png,1,1
 1888,XR_WRIST,patient11213,MURA-v1.1/valid/XR_WRIST/patient11213/study2_negative/image2.png,0,0
 1889,XR_WRIST,patient11213,MURA-v1.1/valid/XR_WRIST/patient11213/study2_negative/image3.png,0,0
-1890,XR_WRIST,patient11213,MURA-v1.1/valid/XR_WRIST/patient11213/study2_negative/image1.png,0,1
+1890,XR_WRIST,patient11213,MURA-v1.1/valid/XR_WRIST/patient11213/study2_negative/image1.png,0,0
 1891,XR_WRIST,patient11381,MURA-v1.1/valid/XR_WRIST/patient11381/study1_negative/image2.png,0,0
 1892,XR_WRIST,patient11381,MURA-v1.1/valid/XR_WRIST/patient11381/study1_negative/image1.png,0,0
 1893,XR_WRIST,patient11224,MURA-v1.1/valid/XR_WRIST/patient11224/study1_positive/image2.png,1,0
@@ -1940,7 +1940,7 @@
 1938,XR_WRIST,patient11220,MURA-v1.1/valid/XR_WRIST/patient11220/study1_positive/image1.png,1,0
 1939,XR_WRIST,patient11390,MURA-v1.1/valid/XR_WRIST/patient11390/study1_negative/image2.png,0,0
 1940,XR_WRIST,patient11390,MURA-v1.1/valid/XR_WRIST/patient11390/study1_negative/image3.png,0,0
-1941,XR_WRIST,patient11390,MURA-v1.1/valid/XR_WRIST/patient11390/study1_negative/image1.png,0,0
+1941,XR_WRIST,patient11390,MURA-v1.1/valid/XR_WRIST/patient11390/study1_negative/image1.png,0,1
 1942,XR_WRIST,patient11390,MURA-v1.1/valid/XR_WRIST/patient11390/study1_negative/image4.png,0,0
 1943,XR_WRIST,patient11288,MURA-v1.1/valid/XR_WRIST/patient11288/study1_negative/image2.png,0,0
 1944,XR_WRIST,patient11288,MURA-v1.1/valid/XR_WRIST/patient11288/study1_negative/image1.png,0,0
@@ -2018,7 +2018,7 @@
 2016,XR_WRIST,patient11236,MURA-v1.1/valid/XR_WRIST/patient11236/study1_positive/image3.png,1,1
 2017,XR_WRIST,patient11236,MURA-v1.1/valid/XR_WRIST/patient11236/study1_positive/image1.png,1,1
 2018,XR_WRIST,patient11330,MURA-v1.1/valid/XR_WRIST/patient11330/study1_negative/image2.png,0,0
-2019,XR_WRIST,patient11330,MURA-v1.1/valid/XR_WRIST/patient11330/study1_negative/image3.png,0,1
+2019,XR_WRIST,patient11330,MURA-v1.1/valid/XR_WRIST/patient11330/study1_negative/image3.png,0,0
 2020,XR_WRIST,patient11330,MURA-v1.1/valid/XR_WRIST/patient11330/study1_negative/image1.png,0,0
 2021,XR_WRIST,patient11330,MURA-v1.1/valid/XR_WRIST/patient11330/study2_negative/image2.png,0,0
 2022,XR_WRIST,patient11330,MURA-v1.1/valid/XR_WRIST/patient11330/study2_negative/image3.png,0,0
@@ -2096,7 +2096,7 @@
 2094,XR_WRIST,patient11186,MURA-v1.1/valid/XR_WRIST/patient11186/study2_positive/image1.png,1,1
 2095,XR_WRIST,patient11197,MURA-v1.1/valid/XR_WRIST/patient11197/study1_positive/image2.png,1,1
 2096,XR_WRIST,patient11197,MURA-v1.1/valid/XR_WRIST/patient11197/study1_positive/image3.png,1,0
-2097,XR_WRIST,patient11197,MURA-v1.1/valid/XR_WRIST/patient11197/study1_positive/image1.png,1,1
+2097,XR_WRIST,patient11197,MURA-v1.1/valid/XR_WRIST/patient11197/study1_positive/image1.png,1,0
 2098,XR_WRIST,patient11355,MURA-v1.1/valid/XR_WRIST/patient11355/study1_negative/image2.png,0,0
 2099,XR_WRIST,patient11355,MURA-v1.1/valid/XR_WRIST/patient11355/study1_negative/image3.png,0,0
 2100,XR_WRIST,patient11355,MURA-v1.1/valid/XR_WRIST/patient11355/study1_negative/image1.png,0,0
@@ -2155,7 +2155,7 @@
 2153,XR_WRIST,patient11196,MURA-v1.1/valid/XR_WRIST/patient11196/study1_positive/image3.png,1,0
 2154,XR_WRIST,patient11196,MURA-v1.1/valid/XR_WRIST/patient11196/study1_positive/image1.png,1,1
 2155,XR_WRIST,patient11196,MURA-v1.1/valid/XR_WRIST/patient11196/study1_positive/image4.png,1,1
-2156,XR_WRIST,patient11270,MURA-v1.1/valid/XR_WRIST/patient11270/study1_positive/image2.png,1,1
+2156,XR_WRIST,patient11270,MURA-v1.1/valid/XR_WRIST/patient11270/study1_positive/image2.png,1,0
 2157,XR_WRIST,patient11270,MURA-v1.1/valid/XR_WRIST/patient11270/study1_positive/image3.png,1,1
 2158,XR_WRIST,patient11270,MURA-v1.1/valid/XR_WRIST/patient11270/study1_positive/image1.png,1,0
 2159,XR_WRIST,patient11326,MURA-v1.1/valid/XR_WRIST/patient11326/study1_negative/image2.png,0,1
@@ -2196,11 +2196,11 @@
 2194,XR_WRIST,patient11216,MURA-v1.1/valid/XR_WRIST/patient11216/study1_positive/image1.png,1,1
 2195,XR_WRIST,patient11216,MURA-v1.1/valid/XR_WRIST/patient11216/study1_positive/image4.png,1,1
 2196,XR_WRIST,patient11339,MURA-v1.1/valid/XR_WRIST/patient11339/study1_negative/image2.png,0,0
-2197,XR_WRIST,patient11339,MURA-v1.1/valid/XR_WRIST/patient11339/study1_negative/image3.png,0,1
+2197,XR_WRIST,patient11339,MURA-v1.1/valid/XR_WRIST/patient11339/study1_negative/image3.png,0,0
 2198,XR_WRIST,patient11339,MURA-v1.1/valid/XR_WRIST/patient11339/study1_negative/image1.png,0,0
 2199,XR_WRIST,patient11250,MURA-v1.1/valid/XR_WRIST/patient11250/study1_positive/image2.png,1,1
-2200,XR_WRIST,patient11250,MURA-v1.1/valid/XR_WRIST/patient11250/study1_positive/image3.png,1,0
-2201,XR_WRIST,patient11250,MURA-v1.1/valid/XR_WRIST/patient11250/study1_positive/image1.png,1,0
+2200,XR_WRIST,patient11250,MURA-v1.1/valid/XR_WRIST/patient11250/study1_positive/image3.png,1,1
+2201,XR_WRIST,patient11250,MURA-v1.1/valid/XR_WRIST/patient11250/study1_positive/image1.png,1,1
 2202,XR_WRIST,patient11250,MURA-v1.1/valid/XR_WRIST/patient11250/study1_positive/image4.png,1,0
 2203,XR_WRIST,patient11212,MURA-v1.1/valid/XR_WRIST/patient11212/study1_positive/image2.png,1,1
 2204,XR_WRIST,patient11212,MURA-v1.1/valid/XR_WRIST/patient11212/study1_positive/image3.png,1,1
@@ -2310,7 +2310,7 @@
 2308,XR_WRIST,patient11342,MURA-v1.1/valid/XR_WRIST/patient11342/study1_negative/image1.png,0,0
 2309,XR_WRIST,patient11189,MURA-v1.1/valid/XR_WRIST/patient11189/study1_positive/image2.png,1,0
 2310,XR_WRIST,patient11189,MURA-v1.1/valid/XR_WRIST/patient11189/study1_positive/image1.png,1,1
-2311,XR_WRIST,patient11373,MURA-v1.1/valid/XR_WRIST/patient11373/study1_negative/image2.png,0,1
+2311,XR_WRIST,patient11373,MURA-v1.1/valid/XR_WRIST/patient11373/study1_negative/image2.png,0,0
 2312,XR_WRIST,patient11373,MURA-v1.1/valid/XR_WRIST/patient11373/study1_negative/image3.png,0,0
 2313,XR_WRIST,patient11373,MURA-v1.1/valid/XR_WRIST/patient11373/study1_negative/image1.png,0,0
 2314,XR_WRIST,patient11206,MURA-v1.1/valid/XR_WRIST/patient11206/study1_positive/image2.png,1,1
@@ -2333,7 +2333,7 @@
 2331,XR_WRIST,patient11192,MURA-v1.1/valid/XR_WRIST/patient11192/study1_positive/image2.png,1,1
 2332,XR_WRIST,patient11192,MURA-v1.1/valid/XR_WRIST/patient11192/study1_positive/image3.png,1,1
 2333,XR_WRIST,patient11192,MURA-v1.1/valid/XR_WRIST/patient11192/study1_positive/image1.png,1,1
-2334,XR_WRIST,patient11222,MURA-v1.1/valid/XR_WRIST/patient11222/study1_positive/image2.png,1,1
+2334,XR_WRIST,patient11222,MURA-v1.1/valid/XR_WRIST/patient11222/study1_positive/image2.png,1,0
 2335,XR_WRIST,patient11222,MURA-v1.1/valid/XR_WRIST/patient11222/study1_positive/image3.png,1,1
 2336,XR_WRIST,patient11222,MURA-v1.1/valid/XR_WRIST/patient11222/study1_positive/image1.png,1,1
 2337,XR_WRIST,patient11222,MURA-v1.1/valid/XR_WRIST/patient11222/study2_negative/image2.png,0,0
@@ -2373,7 +2373,7 @@
 2371,XR_WRIST,patient11252,MURA-v1.1/valid/XR_WRIST/patient11252/study1_positive/image1.png,1,0
 2372,XR_WRIST,patient11344,MURA-v1.1/valid/XR_WRIST/patient11344/study1_negative/image1.png,0,0
 2373,XR_WRIST,patient11202,MURA-v1.1/valid/XR_WRIST/patient11202/study1_positive/image2.png,1,1
-2374,XR_WRIST,patient11202,MURA-v1.1/valid/XR_WRIST/patient11202/study1_positive/image3.png,1,0
+2374,XR_WRIST,patient11202,MURA-v1.1/valid/XR_WRIST/patient11202/study1_positive/image3.png,1,1
 2375,XR_WRIST,patient11202,MURA-v1.1/valid/XR_WRIST/patient11202/study1_positive/image1.png,1,1
 2376,XR_WRIST,patient11217,MURA-v1.1/valid/XR_WRIST/patient11217/study1_positive/image2.png,1,1
 2377,XR_WRIST,patient11217,MURA-v1.1/valid/XR_WRIST/patient11217/study1_positive/image3.png,1,1
@@ -2484,9 +2484,9 @@
 2482,XR_HUMERUS,patient11523,MURA-v1.1/valid/XR_HUMERUS/patient11523/study1_negative/image1.png,0,0
 2483,XR_HUMERUS,patient11485,MURA-v1.1/valid/XR_HUMERUS/patient11485/study1_positive/image2.png,1,1
 2484,XR_HUMERUS,patient11485,MURA-v1.1/valid/XR_HUMERUS/patient11485/study1_positive/image1.png,1,0
-2485,XR_HUMERUS,patient11608,MURA-v1.1/valid/XR_HUMERUS/patient11608/study1_positive/image2.png,1,1
+2485,XR_HUMERUS,patient11608,MURA-v1.1/valid/XR_HUMERUS/patient11608/study1_positive/image2.png,1,0
 2486,XR_HUMERUS,patient11608,MURA-v1.1/valid/XR_HUMERUS/patient11608/study1_positive/image1.png,1,0
-2487,XR_HUMERUS,patient11346,MURA-v1.1/valid/XR_HUMERUS/patient11346/study1_positive/image2.png,1,1
+2487,XR_HUMERUS,patient11346,MURA-v1.1/valid/XR_HUMERUS/patient11346/study1_positive/image2.png,1,0
 2488,XR_HUMERUS,patient11346,MURA-v1.1/valid/XR_HUMERUS/patient11346/study1_positive/image1.png,1,1
 2489,XR_HUMERUS,patient11626,MURA-v1.1/valid/XR_HUMERUS/patient11626/study1_positive/image2.png,1,1
 2490,XR_HUMERUS,patient11626,MURA-v1.1/valid/XR_HUMERUS/patient11626/study1_positive/image1.png,1,1
@@ -2542,7 +2542,7 @@
 2540,XR_HUMERUS,patient11650,MURA-v1.1/valid/XR_HUMERUS/patient11650/study1_positive/image1.png,1,0
 2541,XR_HUMERUS,patient11611,MURA-v1.1/valid/XR_HUMERUS/patient11611/study1_positive/image2.png,1,1
 2542,XR_HUMERUS,patient11611,MURA-v1.1/valid/XR_HUMERUS/patient11611/study1_positive/image1.png,1,1
-2543,XR_HUMERUS,patient11642,MURA-v1.1/valid/XR_HUMERUS/patient11642/study1_positive/image2.png,1,1
+2543,XR_HUMERUS,patient11642,MURA-v1.1/valid/XR_HUMERUS/patient11642/study1_positive/image2.png,1,0
 2544,XR_HUMERUS,patient11642,MURA-v1.1/valid/XR_HUMERUS/patient11642/study1_positive/image1.png,1,0
 2545,XR_HUMERUS,patient11560,MURA-v1.1/valid/XR_HUMERUS/patient11560/study1_negative/image2.png,0,0
 2546,XR_HUMERUS,patient11560,MURA-v1.1/valid/XR_HUMERUS/patient11560/study1_negative/image1.png,0,0
@@ -2563,7 +2563,7 @@
 2561,XR_HUMERUS,patient11619,MURA-v1.1/valid/XR_HUMERUS/patient11619/study1_positive/image2.png,1,1
 2562,XR_HUMERUS,patient11619,MURA-v1.1/valid/XR_HUMERUS/patient11619/study1_positive/image1.png,1,0
 2563,XR_HUMERUS,patient11649,MURA-v1.1/valid/XR_HUMERUS/patient11649/study1_positive/image2.png,1,1
-2564,XR_HUMERUS,patient11649,MURA-v1.1/valid/XR_HUMERUS/patient11649/study1_positive/image1.png,1,0
+2564,XR_HUMERUS,patient11649,MURA-v1.1/valid/XR_HUMERUS/patient11649/study1_positive/image1.png,1,1
 2565,XR_HUMERUS,patient11644,MURA-v1.1/valid/XR_HUMERUS/patient11644/study1_positive/image2.png,1,0
 2566,XR_HUMERUS,patient11644,MURA-v1.1/valid/XR_HUMERUS/patient11644/study1_positive/image1.png,1,0
 2567,XR_HUMERUS,patient11214,MURA-v1.1/valid/XR_HUMERUS/patient11214/study1_positive/image2.png,1,0
@@ -2572,7 +2572,7 @@
 2570,XR_HUMERUS,patient11625,MURA-v1.1/valid/XR_HUMERUS/patient11625/study1_positive/image1.png,1,0
 2571,XR_HUMERUS,patient11679,MURA-v1.1/valid/XR_HUMERUS/patient11679/study1_negative/image2.png,0,1
 2572,XR_HUMERUS,patient11679,MURA-v1.1/valid/XR_HUMERUS/patient11679/study1_negative/image3.png,0,0
-2573,XR_HUMERUS,patient11679,MURA-v1.1/valid/XR_HUMERUS/patient11679/study1_negative/image1.png,0,1
+2573,XR_HUMERUS,patient11679,MURA-v1.1/valid/XR_HUMERUS/patient11679/study1_negative/image1.png,0,0
 2574,XR_HUMERUS,patient11679,MURA-v1.1/valid/XR_HUMERUS/patient11679/study1_negative/image4.png,0,1
 2575,XR_HUMERUS,patient11655,MURA-v1.1/valid/XR_HUMERUS/patient11655/study1_positive/image2.png,1,1
 2576,XR_HUMERUS,patient11655,MURA-v1.1/valid/XR_HUMERUS/patient11655/study1_positive/image1.png,1,1
@@ -2587,7 +2587,7 @@
 2585,XR_HUMERUS,patient11659,MURA-v1.1/valid/XR_HUMERUS/patient11659/study1_positive/image4.png,1,1
 2586,XR_HUMERUS,patient11641,MURA-v1.1/valid/XR_HUMERUS/patient11641/study1_positive/image2.png,1,1
 2587,XR_HUMERUS,patient11641,MURA-v1.1/valid/XR_HUMERUS/patient11641/study1_positive/image1.png,1,1
-2588,XR_HUMERUS,patient11641,MURA-v1.1/valid/XR_HUMERUS/patient11641/study2_positive/image2.png,1,0
+2588,XR_HUMERUS,patient11641,MURA-v1.1/valid/XR_HUMERUS/patient11641/study2_positive/image2.png,1,1
 2589,XR_HUMERUS,patient11641,MURA-v1.1/valid/XR_HUMERUS/patient11641/study2_positive/image1.png,1,0
 2590,XR_HUMERUS,patient11231,MURA-v1.1/valid/XR_HUMERUS/patient11231/study1_positive/image2.png,1,1
 2591,XR_HUMERUS,patient11231,MURA-v1.1/valid/XR_HUMERUS/patient11231/study1_positive/image1.png,1,1
@@ -2624,7 +2624,7 @@
 2622,XR_HUMERUS,patient11340,MURA-v1.1/valid/XR_HUMERUS/patient11340/study1_negative/image2.png,0,0
 2623,XR_HUMERUS,patient11340,MURA-v1.1/valid/XR_HUMERUS/patient11340/study1_negative/image1.png,0,0
 2624,XR_HUMERUS,patient11340,MURA-v1.1/valid/XR_HUMERUS/patient11340/study2_negative/image1.png,0,0
-2625,XR_HUMERUS,patient11682,MURA-v1.1/valid/XR_HUMERUS/patient11682/study1_negative/image2.png,0,0
+2625,XR_HUMERUS,patient11682,MURA-v1.1/valid/XR_HUMERUS/patient11682/study1_negative/image2.png,0,1
 2626,XR_HUMERUS,patient11682,MURA-v1.1/valid/XR_HUMERUS/patient11682/study1_negative/image3.png,0,0
 2627,XR_HUMERUS,patient11682,MURA-v1.1/valid/XR_HUMERUS/patient11682/study1_negative/image1.png,0,0
 2628,XR_HUMERUS,patient11682,MURA-v1.1/valid/XR_HUMERUS/patient11682/study1_negative/image4.png,0,1
@@ -2771,7 +2771,7 @@
 2769,XR_ELBOW,patient11807,MURA-v1.1/valid/XR_ELBOW/patient11807/study1_positive/image2.png,1,0
 2770,XR_ELBOW,patient11807,MURA-v1.1/valid/XR_ELBOW/patient11807/study1_positive/image3.png,1,0
 2771,XR_ELBOW,patient11807,MURA-v1.1/valid/XR_ELBOW/patient11807/study1_positive/image1.png,1,0
-2772,XR_ELBOW,patient11495,MURA-v1.1/valid/XR_ELBOW/patient11495/study1_negative/image2.png,0,0
+2772,XR_ELBOW,patient11495,MURA-v1.1/valid/XR_ELBOW/patient11495/study1_negative/image2.png,0,1
 2773,XR_ELBOW,patient11495,MURA-v1.1/valid/XR_ELBOW/patient11495/study1_negative/image1.png,0,0
 2774,XR_ELBOW,patient11879,MURA-v1.1/valid/XR_ELBOW/patient11879/study1_negative/image2.png,0,0
 2775,XR_ELBOW,patient11879,MURA-v1.1/valid/XR_ELBOW/patient11879/study1_negative/image1.png,0,1
@@ -2789,7 +2789,7 @@
 2787,XR_ELBOW,patient11815,MURA-v1.1/valid/XR_ELBOW/patient11815/study1_positive/image1.png,1,0
 2788,XR_ELBOW,patient11756,MURA-v1.1/valid/XR_ELBOW/patient11756/study1_positive/image2.png,1,0
 2789,XR_ELBOW,patient11756,MURA-v1.1/valid/XR_ELBOW/patient11756/study1_positive/image3.png,1,0
-2790,XR_ELBOW,patient11756,MURA-v1.1/valid/XR_ELBOW/patient11756/study1_positive/image1.png,1,1
+2790,XR_ELBOW,patient11756,MURA-v1.1/valid/XR_ELBOW/patient11756/study1_positive/image1.png,1,0
 2791,XR_ELBOW,patient11756,MURA-v1.1/valid/XR_ELBOW/patient11756/study1_positive/image4.png,1,1
 2792,XR_ELBOW,patient11874,MURA-v1.1/valid/XR_ELBOW/patient11874/study1_negative/image2.png,0,0
 2793,XR_ELBOW,patient11874,MURA-v1.1/valid/XR_ELBOW/patient11874/study1_negative/image3.png,0,0
@@ -2815,7 +2815,7 @@
 2813,XR_ELBOW,patient11317,MURA-v1.1/valid/XR_ELBOW/patient11317/study1_negative/image2.png,0,0
 2814,XR_ELBOW,patient11317,MURA-v1.1/valid/XR_ELBOW/patient11317/study1_negative/image3.png,0,0
 2815,XR_ELBOW,patient11317,MURA-v1.1/valid/XR_ELBOW/patient11317/study1_negative/image1.png,0,0
-2816,XR_ELBOW,patient11831,MURA-v1.1/valid/XR_ELBOW/patient11831/study1_positive/image5.png,1,1
+2816,XR_ELBOW,patient11831,MURA-v1.1/valid/XR_ELBOW/patient11831/study1_positive/image5.png,1,0
 2817,XR_ELBOW,patient11831,MURA-v1.1/valid/XR_ELBOW/patient11831/study1_positive/image2.png,1,0
 2818,XR_ELBOW,patient11831,MURA-v1.1/valid/XR_ELBOW/patient11831/study1_positive/image7.png,1,0
 2819,XR_ELBOW,patient11831,MURA-v1.1/valid/XR_ELBOW/patient11831/study1_positive/image3.png,1,1
@@ -2906,8 +2906,8 @@
 2904,XR_ELBOW,patient11825,MURA-v1.1/valid/XR_ELBOW/patient11825/study1_positive/image5.png,1,1
 2905,XR_ELBOW,patient11825,MURA-v1.1/valid/XR_ELBOW/patient11825/study1_positive/image2.png,1,0
 2906,XR_ELBOW,patient11825,MURA-v1.1/valid/XR_ELBOW/patient11825/study1_positive/image3.png,1,0
-2907,XR_ELBOW,patient11825,MURA-v1.1/valid/XR_ELBOW/patient11825/study1_positive/image1.png,1,1
-2908,XR_ELBOW,patient11825,MURA-v1.1/valid/XR_ELBOW/patient11825/study1_positive/image4.png,1,1
+2907,XR_ELBOW,patient11825,MURA-v1.1/valid/XR_ELBOW/patient11825/study1_positive/image1.png,1,0
+2908,XR_ELBOW,patient11825,MURA-v1.1/valid/XR_ELBOW/patient11825/study1_positive/image4.png,1,0
 2909,XR_ELBOW,patient11780,MURA-v1.1/valid/XR_ELBOW/patient11780/study1_positive/image5.png,1,1
 2910,XR_ELBOW,patient11780,MURA-v1.1/valid/XR_ELBOW/patient11780/study1_positive/image2.png,1,1
 2911,XR_ELBOW,patient11780,MURA-v1.1/valid/XR_ELBOW/patient11780/study1_positive/image3.png,1,1
@@ -2915,7 +2915,7 @@
 2913,XR_ELBOW,patient11780,MURA-v1.1/valid/XR_ELBOW/patient11780/study1_positive/image6.png,1,1
 2914,XR_ELBOW,patient11780,MURA-v1.1/valid/XR_ELBOW/patient11780/study1_positive/image4.png,1,1
 2915,XR_ELBOW,patient11833,MURA-v1.1/valid/XR_ELBOW/patient11833/study1_positive/image1.png,1,1
-2916,XR_ELBOW,patient11842,MURA-v1.1/valid/XR_ELBOW/patient11842/study1_positive/image5.png,1,1
+2916,XR_ELBOW,patient11842,MURA-v1.1/valid/XR_ELBOW/patient11842/study1_positive/image5.png,1,0
 2917,XR_ELBOW,patient11842,MURA-v1.1/valid/XR_ELBOW/patient11842/study1_positive/image2.png,1,0
 2918,XR_ELBOW,patient11842,MURA-v1.1/valid/XR_ELBOW/patient11842/study1_positive/image3.png,1,1
 2919,XR_ELBOW,patient11842,MURA-v1.1/valid/XR_ELBOW/patient11842/study1_positive/image1.png,1,0
@@ -3063,7 +3063,7 @@
 3061,XR_ELBOW,patient11823,MURA-v1.1/valid/XR_ELBOW/patient11823/study1_positive/image2.png,1,1
 3062,XR_ELBOW,patient11823,MURA-v1.1/valid/XR_ELBOW/patient11823/study1_positive/image1.png,1,0
 3063,XR_ELBOW,patient11283,MURA-v1.1/valid/XR_ELBOW/patient11283/study1_negative/image2.png,0,0
-3064,XR_ELBOW,patient11283,MURA-v1.1/valid/XR_ELBOW/patient11283/study1_negative/image3.png,0,0
+3064,XR_ELBOW,patient11283,MURA-v1.1/valid/XR_ELBOW/patient11283/study1_negative/image3.png,0,1
 3065,XR_ELBOW,patient11283,MURA-v1.1/valid/XR_ELBOW/patient11283/study1_negative/image1.png,0,0
 3066,XR_ELBOW,patient11283,MURA-v1.1/valid/XR_ELBOW/patient11283/study1_negative/image4.png,0,0
 3067,XR_ELBOW,patient11736,MURA-v1.1/valid/XR_ELBOW/patient11736/study1_negative/image2.png,0,0
@@ -3121,7 +3121,7 @@
 3119,XR_ELBOW,patient11466,MURA-v1.1/valid/XR_ELBOW/patient11466/study1_negative/image1.png,0,0
 3120,XR_ELBOW,patient11818,MURA-v1.1/valid/XR_ELBOW/patient11818/study1_positive/image5.png,1,1
 3121,XR_ELBOW,patient11818,MURA-v1.1/valid/XR_ELBOW/patient11818/study1_positive/image2.png,1,0
-3122,XR_ELBOW,patient11818,MURA-v1.1/valid/XR_ELBOW/patient11818/study1_positive/image3.png,1,1
+3122,XR_ELBOW,patient11818,MURA-v1.1/valid/XR_ELBOW/patient11818/study1_positive/image3.png,1,0
 3123,XR_ELBOW,patient11818,MURA-v1.1/valid/XR_ELBOW/patient11818/study1_positive/image1.png,1,1
 3124,XR_ELBOW,patient11818,MURA-v1.1/valid/XR_ELBOW/patient11818/study1_positive/image4.png,1,1
 3125,XR_ELBOW,patient11855,MURA-v1.1/valid/XR_ELBOW/patient11855/study1_negative/image2.png,0,0
@@ -3142,7 +3142,7 @@
 3140,XR_ELBOW,patient11817,MURA-v1.1/valid/XR_ELBOW/patient11817/study1_positive/image3.png,1,0
 3141,XR_ELBOW,patient11817,MURA-v1.1/valid/XR_ELBOW/patient11817/study1_positive/image1.png,1,0
 3142,XR_ELBOW,patient11817,MURA-v1.1/valid/XR_ELBOW/patient11817/study1_positive/image4.png,1,0
-3143,XR_ELBOW,patient11586,MURA-v1.1/valid/XR_ELBOW/patient11586/study1_positive/image2.png,1,0
+3143,XR_ELBOW,patient11586,MURA-v1.1/valid/XR_ELBOW/patient11586/study1_positive/image2.png,1,1
 3144,XR_ELBOW,patient11586,MURA-v1.1/valid/XR_ELBOW/patient11586/study1_positive/image1.png,1,0
 3145,XR_ELBOW,patient11843,MURA-v1.1/valid/XR_ELBOW/patient11843/study1_positive/image2.png,1,0
 3146,XR_ELBOW,patient11843,MURA-v1.1/valid/XR_ELBOW/patient11843/study1_positive/image3.png,1,0
@@ -3167,7 +3167,7 @@
 3165,XR_ELBOW,patient11775,MURA-v1.1/valid/XR_ELBOW/patient11775/study1_negative/image2.png,0,0
 3166,XR_ELBOW,patient11775,MURA-v1.1/valid/XR_ELBOW/patient11775/study1_negative/image3.png,0,0
 3167,XR_ELBOW,patient11775,MURA-v1.1/valid/XR_ELBOW/patient11775/study1_negative/image1.png,0,0
-3168,XR_ELBOW,patient11775,MURA-v1.1/valid/XR_ELBOW/patient11775/study1_negative/image4.png,0,1
+3168,XR_ELBOW,patient11775,MURA-v1.1/valid/XR_ELBOW/patient11775/study1_negative/image4.png,0,0
 3169,XR_ELBOW,patient11824,MURA-v1.1/valid/XR_ELBOW/patient11824/study1_positive/image2.png,1,0
 3170,XR_ELBOW,patient11824,MURA-v1.1/valid/XR_ELBOW/patient11824/study1_positive/image1.png,1,1
 3171,XR_ELBOW,patient11824,MURA-v1.1/valid/XR_ELBOW/patient11824/study2_negative/image2.png,0,0
@@ -3187,7 +3187,7 @@
 3185,XR_ELBOW,patient11852,MURA-v1.1/valid/XR_ELBOW/patient11852/study1_negative/image1.png,0,1
 3186,XR_ELBOW,patient11588,MURA-v1.1/valid/XR_ELBOW/patient11588/study1_negative/image2.png,0,0
 3187,XR_ELBOW,patient11588,MURA-v1.1/valid/XR_ELBOW/patient11588/study1_negative/image1.png,0,0
-3188,XR_ELBOW,patient11867,MURA-v1.1/valid/XR_ELBOW/patient11867/study1_negative/image2.png,0,1
+3188,XR_ELBOW,patient11867,MURA-v1.1/valid/XR_ELBOW/patient11867/study1_negative/image2.png,0,0
 3189,XR_ELBOW,patient11867,MURA-v1.1/valid/XR_ELBOW/patient11867/study1_negative/image3.png,0,0
 3190,XR_ELBOW,patient11867,MURA-v1.1/valid/XR_ELBOW/patient11867/study1_negative/image1.png,0,0
 3191,XR_ELBOW,patient11536,MURA-v1.1/valid/XR_ELBOW/patient11536/study1_negative/image2.png,0,0
