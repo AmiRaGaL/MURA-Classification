@@ -31,8 +31,11 @@ def predict(image, model):
     #image = preprocess_image(image)
     preds = model.predict(image)
     return preds
-    
-def model_setup():
+
+
+
+# function to load the model and set up the last convolutional layer and classifier layer names
+def model_setup(): 
     cut_off = 0.5
     metricsVec = [
         metrics.BinaryAccuracy(threshold=cut_off),
@@ -53,6 +56,8 @@ def model_setup():
     loss=losses.BinaryCrossentropy(from_logits=False),
     metrics=metricsVec)
     return Top_Layers, Output_layer
+
+# function to generate the heatmap
 
 def make_gradcam_heatmap(img_array, model, last_conv_layer_name, classifier_layer_names):
     # First, we create a model that maps the input image to the activations
@@ -111,6 +116,9 @@ def make_gradcam_heatmap(img_array, model, last_conv_layer_name, classifier_laye
     # For visualization purpose, we will also normalize the heatmap between 0 & 1
     heatmap = np.maximum(heatmap, 0) / np.max(heatmap)
     return heatmap, top_pred_index.numpy()
+
+
+# function to generate the GradCAM image
 
 def grad_cam(image, model, last_conv_layer_name, classifier_layer_names=None):
 
