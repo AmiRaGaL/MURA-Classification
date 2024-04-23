@@ -37,6 +37,7 @@ This branch was used to create the vgg16 base model. Files relate very closely t
 ### Citations
 
 Coding Links:
+
 https://stackoverflow.com/questions/9727673/list-directory-tree-structure-in-python
 https://www.kaggle.com/code/cafelatte1/alien-and-predator-classification-beginner/notebook
 https://stackoverflow.com/questions/71572762/cannot-identify-image-file-io-bytesio-object-at-0x000001e6cf13a108
@@ -50,6 +51,9 @@ https://towardsdatascience.com/transfer-learning-with-vgg16-and-keras-50ea161580
 https://www.learndatasci.com/tutorials/hands-on-transfer-learning-keras/
 https://medium.com/geekculture/boost-your-image-classification-model-with-pretrained-vgg-16-ec185f763104
 https://towardsdatascience.com/transfer-learning-with-vgg16-and-keras-50ea161580b4
+
+
+Paper Citation: 
 
 Almezhghwi, Khaled et al. “Convolutional neural networks for the classification of chest X-rays in the IoT era.” Multimedia tools and applications vol. 80,19 
 (2021): 29051-29065. doi:10.1007/s11042-021-10907-y
