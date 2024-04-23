@@ -25,9 +25,9 @@ Main Branch:
  - **test_w_preds_vgg.csv** is a csv model of the testing results of the VGG16 base. It included image filepath, study type, patientID, correct label, and predicted label
  - **vggModel.ipynb** notebook encompassed the training, fitting, and testing of our second approach.
  - **vggmodel.keras** incorporates the saved model version of the vgg16 base from the vggModel.ipynb notebook
- - GradCAM.py
- - InferenceSL.py
- - Visualization.ipynb
+ - **GradCAM.py** serves as an API to Inference for better interpretation.
+ - **InferenceSL.py** For real time MURA classificstion using StremLIT interface, Execute Streamlit run InferenceSL.py.
+ - **Visualization.ipynb** Notebook for GradCAM implementation for out models.
 
 
 Vgg Branch:  
