@@ -36,6 +36,7 @@ This branch was used to create the vgg16 base model. Files relate very closely t
 
 ### Citations
 
+Coding Links:
 https://stackoverflow.com/questions/9727673/list-directory-tree-structure-in-python
 https://www.kaggle.com/code/cafelatte1/alien-and-predator-classification-beginner/notebook
 https://stackoverflow.com/questions/71572762/cannot-identify-image-file-io-bytesio-object-at-0x000001e6cf13a108
@@ -49,19 +50,22 @@ https://towardsdatascience.com/transfer-learning-with-vgg16-and-keras-50ea161580
 https://www.learndatasci.com/tutorials/hands-on-transfer-learning-keras/
 https://medium.com/geekculture/boost-your-image-classification-model-with-pretrained-vgg-16-ec185f763104
 https://towardsdatascience.com/transfer-learning-with-vgg16-and-keras-50ea161580b4
+
 Almezhghwi, Khaled et al. “Convolutional neural networks for the classification of chest X-rays in the IoT era.” Multimedia tools and applications vol. 80,19 
 (2021): 29051-29065. doi:10.1007/s11042-021-10907-y
+
 Barondess, J., & Cullen, M. (2002). Musculoskeletal disorders and the workplace. International Journal of Epidemiology, 31(3), 702–702. 
 https://doi.org/10.1093/ije/31.3.702
+
 Cieza, Alarcos, et al. "Global estimates of the need for rehabilitation based on the Global Burden of Disease study 2019: a systematic analysis for the Global 
 Burden of Disease Study 2019." The Lancet 396.10267 (2020): 2006-2017.
-GfG. (2024, March 14). ML Stochastic Gradient Descent (SGD). GeeksforGeeks. https://www.geeksforgeeks.org/ml-stochastic-gradient-descent-sgd/
-Goyal, Lakshay et al. “VGG-COVIDNet: A Novel model for COVID detection from X-Ray and CT Scan images.” Procedia computer science vol. 218 (2023): 
-1926-1935. doi:10.1016/j.procs.2023.01.169
+
 Keras. (n.d.). Keras documentation: Adam. https://keras.io/api/optimizers/adam/
 Rajpurkar, Pranav, et al. "Mura: Large dataset for abnormality detection in musculoskeletal radiographs." arXiv preprint arXiv:1712.06957 (2017).
+
 Sahota, H. (2023, November 30). An Intuitive Guide to convolutional neural networks. Comet.
 https://www.comet.com/site/blog/an-intuitive-guide-to-convolutional-neural-networks
+
 Shazia, A., Xuan, T.Z., Chuah, J.H. et al. A comparative study of multiple neural network for detection of COVID-19 on chest X-ray. EURASIP J. Adv. Signal 
 Process. 2021, 50 (2021). https://doi.org/10.1186/s13634-021-00755-1
 Worldometer. "World Population.” www.worldometers.info/world-population/
