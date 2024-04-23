@@ -14,9 +14,11 @@ Dataset: https://stanfordmlgroup.github.io/competitions/mura/
 - Run Jupyter notebook code contained in Final_Project_MURA.ipynb for DenseNet201 base on the main branch
 - Run Jupyter Notebook code contained in vggModel.ipynb for Vgg16 base
 
-#### File descriptions
+----
 
-Main Branch:  
+### File descriptions
+
+##### Main Branch:  
 
  - **Final Metrics.ipynb** notebook showcases the test results in depth between VGG16 Base Model and DenseNet201
  - **Final_Project_MURA.ipynb** notebook showcases the data preprocessed which includes analysis and data augmentation and best performaning model, DenseNet201 base with Transfer Learning technique
@@ -30,33 +32,45 @@ Main Branch:
  - **Visualization.ipynb** Notebook for GradCAM implementation for our models.
 
 
-Vgg Branch:  
+##### Vgg Branch:  
 
 This branch was used to create the vgg16 base model. Files relate very closely to the main branch with the excpetion of it being slightly outdated due making our final adjustments of the VGG16on the main branch. It's also important to note the vgg16 version was running on the CS server which gave us technical errors at times and different results compared to the main brnach.
 - **vgg16_train_output.png** shows visualization of the training results
 - **vgg16_test_w_preds.csv** a csv file of the testing resuls with the vgg16 base
 
+----
+
+### Division of Labor
+
+All group members contributed equally. Note that the GitHub commit history is slightly off and that code is all contained in main branch since we built off each others’ work.
+- **Michelle**: Preprocessed and split training/validation/test data, conducted exploratory analysis, developed multiple visualizations, completed data augmentation
+- **Amelia**: Defined DenseNet model, ran training/validation/test datasets, developed training/validation loss and accuracy graphs, calculated metrics
+- **Jennifer**: Defined VGGNet model, ran training/validation datasets, developed training/validation loss and accuracy graphs, calculated metrics
+- **Deva**: Created GitHub repo, explored optimizations, ran optimizations on both DenseNet and VGGNet models, and created GradCam visualizations
+- **All**: Debugging on Discord, looking over each others’ work and offering improvements
+
+----
 
 ### Citations
 
-Coding Links:
+##### Coding Links:
 
-https://stackoverflow.com/questions/9727673/list-directory-tree-structure-in-python
-https://www.kaggle.com/code/cafelatte1/alien-and-predator-classification-beginner/notebook
-https://stackoverflow.com/questions/71572762/cannot-identify-image-file-io-bytesio-object-at-0x000001e6cf13a108
-https://towardsdatascience.com/transfer-learning-with-vgg16-and-keras-50ea161580b4
-https://www.learndatasci.com/tutorials/hands-on-transfer-learning-keras/
-https://medium.com/geekculture/boost-your-image-classification-model-with-pretrained-vgg-16-ec185f763104
-https://towardsdatascience.com/transfer-learning-with-vgg16-and-keras-50ea161580b4
-https://www.tensorflow.org/tutorials/keras/save_and_load
-https://www.tensorflow.org/guide/keras/serialization_and_saving 
-https://towardsdatascience.com/transfer-learning-with-vgg16-and-keras-50ea161580b4
-https://www.learndatasci.com/tutorials/hands-on-transfer-learning-keras/
-https://medium.com/geekculture/boost-your-image-classification-model-with-pretrained-vgg-16-ec185f763104
-https://towardsdatascience.com/transfer-learning-with-vgg16-and-keras-50ea161580b4
+https://stackoverflow.com/questions/9727673/list-directory-tree-structure-in-python  
+https://www.kaggle.com/code/cafelatte1/alien-and-predator-classification-beginner/notebook  
+https://stackoverflow.com/questions/71572762/cannot-identify-image-file-io-bytesio-object-at-0x000001e6cf13a108  
+https://towardsdatascience.com/transfer-learning-with-vgg16-and-keras-50ea161580b4  
+https://www.learndatasci.com/tutorials/hands-on-transfer-learning-keras/  
+https://medium.com/geekculture/boost-your-image-classification-model-with-pretrained-vgg-16-ec185f763104  
+https://towardsdatascience.com/transfer-learning-with-vgg16-and-keras-50ea161580b4  
+https://www.tensorflow.org/tutorials/keras/save_and_load  
+https://www.tensorflow.org/guide/keras/serialization_and_saving  
+https://towardsdatascience.com/transfer-learning-with-vgg16-and-keras-50ea161580b4  
+https://www.learndatasci.com/tutorials/hands-on-transfer-learning-keras/  
+https://medium.com/geekculture/boost-your-image-classification-model-with-pretrained-vgg-16-ec185f763104  
+https://towardsdatascience.com/transfer-learning-with-vgg16-and-keras-50ea161580b4  
 
 
-Paper Citation: 
+### Paper Citations: 
 
 Almezhghwi, Khaled et al. “Convolutional neural networks for the classification of chest X-rays in the IoT era.” Multimedia tools and applications vol. 80,19 
 (2021): 29051-29065. doi:10.1007/s11042-021-10907-y
@@ -76,19 +90,4 @@ https://www.comet.com/site/blog/an-intuitive-guide-to-convolutional-neural-netwo
 Shazia, A., Xuan, T.Z., Chuah, J.H. et al. A comparative study of multiple neural network for detection of COVID-19 on chest X-ray. EURASIP J. Adv. Signal 
 Process. 2021, 50 (2021). https://doi.org/10.1186/s13634-021-00755-1
 Worldometer. "World Population.” www.worldometers.info/world-population/
-
-
-
-
-----
-
-#### Division of Labor
-
-All group members contributed equally. Note that the GitHub commit history is slightly off and that code is all contained in main branch since we built off each others’ work.
-- **Michelle**: Preprocessed and split training/validation/test data, conducted exploratory analysis, developed multiple visualizations, completed data augmentation
-- **Amelia**: Defined DenseNet model, ran training/validation/test datasets, developed training/validation loss and accuracy graphs, calculated metrics
-- **Jennifer**: Defined VGGNet model, ran training/validation datasets, developed training/validation loss and accuracy graphs, calculated metrics
-- **Deva**: Created GitHub repo, explored optimizations, ran optimizations on both DenseNet and VGGNet models, and created GradCam visualizations
-- **All**: Debugging on Discord, looking over each others’ work and offering improvements
-
 
