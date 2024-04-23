@@ -27,7 +27,7 @@ Main Branch:
  - **vggmodel.keras** incorporates the saved model version of the vgg16 base from the vggModel.ipynb notebook
  - **GradCAM.py** serves as an API to Inference for better interpretation.
  - **InferenceSL.py** For real time MURA classificstion using StremLIT interface, Execute Streamlit run InferenceSL.py.
- - **Visualization.ipynb** Notebook for GradCAM implementation for out models.
+ - **Visualization.ipynb** Notebook for GradCAM implementation for our models.
 
 
 Vgg Branch:  
