@@ -1,2 +1,4 @@
 # Ignore a specific folder and all its subfolders
 MURA-v1.1/**
+
+# Ignore specific files
